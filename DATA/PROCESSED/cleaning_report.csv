@@ -1,0 +1,13 @@
+metric,value
+delivery_files_found,1243
+delivery_files_loaded,1243
+info_files_found,1243
+delivery_rows,295732
+delivery_columns,27
+match_rows,1243
+unique_delivery_match_ids,1243
+unique_metadata_match_ids,1243
+potential_duplicate_delivery_rows,0
+duplicate_metadata_ids,0
+failed_delivery_files,0
+failed_info_files,0

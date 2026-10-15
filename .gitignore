@@ -1,0 +1,23 @@
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+venv/
+env/
+.env
+.env.*
+!.env.example
+.DS_Store
+Thumbs.db
+
+# Raw IPL match data
+DATA/RAW/
+
+# Notebook checkpoints
+.ipynb_checkpoints/
+**/.ipynb_checkpoints/
+
+# Large processed datasets
+DATA/PROCESSED/deliveries.csv
+DATA/PROCESSED/matches.csv
+

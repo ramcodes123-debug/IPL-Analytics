@@ -1,0 +1,1238 @@
+match_id,first_batting_team,first_innings_runs,second_batting_team,second_innings_runs,winner,winner_runs,winner_wickets,result_type
+335982,Kolkata Knight Riders,222,Royal Challengers Bangalore,82,Kolkata Knight Riders,140.0,,Batting first won
+335983,Chennai Super Kings,240,Kings XI Punjab,207,Chennai Super Kings,33.0,,Batting first won
+335984,Rajasthan Royals,129,Delhi Daredevils,132,Delhi Daredevils,,9.0,Chasing team won
+335985,Mumbai Indians,165,Royal Challengers Bangalore,166,Royal Challengers Bangalore,,5.0,Chasing team won
+335986,Deccan Chargers,110,Kolkata Knight Riders,112,Kolkata Knight Riders,,5.0,Chasing team won
+335987,Kings XI Punjab,166,Rajasthan Royals,168,Rajasthan Royals,,6.0,Chasing team won
+335988,Deccan Chargers,142,Delhi Daredevils,143,Delhi Daredevils,,9.0,Chasing team won
+335989,Chennai Super Kings,208,Mumbai Indians,202,Chennai Super Kings,6.0,,Batting first won
+335990,Deccan Chargers,214,Rajasthan Royals,217,Rajasthan Royals,,3.0,Chasing team won
+335991,Kings XI Punjab,182,Mumbai Indians,116,Kings XI Punjab,66.0,,Batting first won
+335992,Royal Challengers Bangalore,135,Rajasthan Royals,138,Rajasthan Royals,,7.0,Chasing team won
+335993,Kolkata Knight Riders,147,Chennai Super Kings,152,Chennai Super Kings,,9.0,Chasing team won
+335994,Mumbai Indians,154,Deccan Chargers,155,Deccan Chargers,,10.0,Chasing team won
+335995,Delhi Daredevils,158,Kings XI Punjab,162,Kings XI Punjab,,4.0,Chasing team won
+335996,Chennai Super Kings,178,Royal Challengers Bangalore,165,Chennai Super Kings,13.0,,Batting first won
+335997,Kolkata Knight Riders,137,Mumbai Indians,138,Mumbai Indians,,7.0,Chasing team won
+335998,Delhi Daredevils,191,Royal Challengers Bangalore,181,Delhi Daredevils,10.0,,Batting first won
+335999,Deccan Chargers,164,Kings XI Punjab,167,Kings XI Punjab,,7.0,Chasing team won
+336000,Rajasthan Royals,196,Kolkata Knight Riders,151,Rajasthan Royals,45.0,,Batting first won
+336001,Chennai Super Kings,169,Delhi Daredevils,172,Delhi Daredevils,,8.0,Chasing team won
+336002,Deccan Chargers,165,Royal Challengers Bangalore,171,Royal Challengers Bangalore,,5.0,Chasing team won
+336003,Kings XI Punjab,178,Kolkata Knight Riders,169,Kings XI Punjab,9.0,,Batting first won
+336004,Mumbai Indians,162,Delhi Daredevils,133,Mumbai Indians,29.0,,Batting first won
+336005,Chennai Super Kings,109,Rajasthan Royals,110,Rajasthan Royals,,8.0,Chasing team won
+336006,Royal Challengers Bangalore,126,Kings XI Punjab,127,Kings XI Punjab,,6.0,Chasing team won
+336007,Chennai Super Kings,144,Deccan Chargers,148,Deccan Chargers,,7.0,Chasing team won
+336008,Rajasthan Royals,103,Mumbai Indians,104,Mumbai Indians,,7.0,Chasing team won
+336009,Delhi Daredevils,187,Chennai Super Kings,188,Chennai Super Kings,,4.0,Chasing team won
+336010,Kolkata Knight Riders,129,Royal Challengers Bangalore,124,Kolkata Knight Riders,5.0,,Batting first won
+336011,Deccan Chargers,140,Rajasthan Royals,141,Rajasthan Royals,,8.0,Chasing team won
+336012,Royal Challengers Bangalore,122,Mumbai Indians,126,Mumbai Indians,,9.0,Chasing team won
+336013,Chennai Super Kings,181,Kings XI Punjab,163,Chennai Super Kings,18.0,,Batting first won
+336014,Kolkata Knight Riders,204,Deccan Chargers,181,Kolkata Knight Riders,23.0,,Batting first won
+336015,Delhi Daredevils,156,Rajasthan Royals,159,Rajasthan Royals,,3.0,Chasing team won
+336016,Royal Challengers Bangalore,143,Kings XI Punjab,144,Kings XI Punjab,,9.0,Chasing team won
+336017,Kolkata Knight Riders,133,Delhi Daredevils,110,Kolkata Knight Riders,23.0,,Batting first won
+336018,Chennai Super Kings,156,Mumbai Indians,158,Mumbai Indians,,9.0,Chasing team won
+336019,Kings XI Punjab,221,Rajasthan Royals,180,Kings XI Punjab,41.0,,Batting first won
+336020,Delhi Daredevils,194,Deccan Chargers,182,Delhi Daredevils,12.0,,Batting first won
+336021,Kolkata Knight Riders,67,Mumbai Indians,68,Mumbai Indians,,8.0,Chasing team won
+336022,Delhi Daredevils,118,Kings XI Punjab,94,Kings XI Punjab,6.0,,Chasing team won
+336023,Rajasthan Royals,197,Royal Challengers Bangalore,132,Rajasthan Royals,65.0,,Batting first won
+336024,Mumbai Indians,178,Deccan Chargers,153,Mumbai Indians,25.0,,Batting first won
+336025,Kolkata Knight Riders,149,Chennai Super Kings,55,Chennai Super Kings,3.0,,Chasing team won
+336026,Royal Challengers Bangalore,154,Delhi Daredevils,158,Delhi Daredevils,,5.0,Chasing team won
+336027,Kolkata Knight Riders,147,Rajasthan Royals,150,Rajasthan Royals,,6.0,Chasing team won
+336028,Kings XI Punjab,189,Mumbai Indians,188,Kings XI Punjab,1.0,,Batting first won
+336029,Royal Challengers Bangalore,126,Chennai Super Kings,112,Royal Challengers Bangalore,14.0,,Batting first won
+336031,Deccan Chargers,175,Kings XI Punjab,178,Kings XI Punjab,,6.0,Chasing team won
+336032,Mumbai Indians,176,Delhi Daredevils,179,Delhi Daredevils,,5.0,Chasing team won
+336033,Rajasthan Royals,211,Chennai Super Kings,201,Rajasthan Royals,10.0,,Batting first won
+336034,Royal Challengers Bangalore,156,Deccan Chargers,153,Royal Challengers Bangalore,3.0,,Batting first won
+336035,Kings XI Punjab,174,Kolkata Knight Riders,175,Kolkata Knight Riders,,3.0,Chasing team won
+336036,Mumbai Indians,145,Rajasthan Royals,146,Rajasthan Royals,,5.0,Chasing team won
+336037,Deccan Chargers,147,Chennai Super Kings,148,Chennai Super Kings,,7.0,Chasing team won
+336038,Rajasthan Royals,192,Delhi Daredevils,87,Rajasthan Royals,105.0,,Batting first won
+336039,Kings XI Punjab,112,Chennai Super Kings,116,Chennai Super Kings,,9.0,Chasing team won
+336040,Chennai Super Kings,163,Rajasthan Royals,164,Rajasthan Royals,,3.0,Chasing team won
+392181,Mumbai Indians,165,Chennai Super Kings,146,Mumbai Indians,19.0,,Batting first won
+392182,Royal Challengers Bangalore,133,Rajasthan Royals,58,Royal Challengers Bangalore,75.0,,Batting first won
+392183,Kings XI Punjab,104,Delhi Daredevils,58,Delhi Daredevils,,10.0,Chasing team won
+392184,Kolkata Knight Riders,101,Deccan Chargers,104,Deccan Chargers,,8.0,Chasing team won
+392185,Chennai Super Kings,179,Royal Challengers Bangalore,87,Chennai Super Kings,92.0,,Batting first won
+392186,Kings XI Punjab,158,Kolkata Knight Riders,79,Kolkata Knight Riders,11.0,,Chasing team won
+392188,Deccan Chargers,184,Royal Challengers Bangalore,160,Deccan Chargers,24.0,,Batting first won
+392189,Delhi Daredevils,189,Chennai Super Kings,180,Delhi Daredevils,9.0,,Batting first won
+392190,Rajasthan Royals,150,Kolkata Knight Riders,150,,,,No recorded winner / other result
+392191,Royal Challengers Bangalore,168,Kings XI Punjab,173,Kings XI Punjab,,7.0,Chasing team won
+392192,Deccan Chargers,168,Mumbai Indians,156,Deccan Chargers,12.0,,Batting first won
+392194,Royal Challengers Bangalore,149,Delhi Daredevils,150,Delhi Daredevils,,6.0,Chasing team won
+392195,Kings XI Punjab,139,Rajasthan Royals,112,Kings XI Punjab,27.0,,Batting first won
+392196,Chennai Super Kings,165,Deccan Chargers,169,Deccan Chargers,,6.0,Chasing team won
+392197,Mumbai Indians,187,Kolkata Knight Riders,95,Mumbai Indians,92.0,,Batting first won
+392198,Delhi Daredevils,143,Rajasthan Royals,147,Rajasthan Royals,,5.0,Chasing team won
+392199,Kolkata Knight Riders,139,Royal Challengers Bangalore,143,Royal Challengers Bangalore,,5.0,Chasing team won
+392200,Kings XI Punjab,119,Mumbai Indians,116,Kings XI Punjab,3.0,,Batting first won
+392201,Deccan Chargers,148,Delhi Daredevils,150,Delhi Daredevils,,6.0,Chasing team won
+392202,Chennai Super Kings,164,Rajasthan Royals,126,Chennai Super Kings,38.0,,Batting first won
+392203,Mumbai Indians,148,Kolkata Knight Riders,139,Mumbai Indians,9.0,,Batting first won
+392204,Royal Challengers Bangalore,145,Kings XI Punjab,137,Royal Challengers Bangalore,8.0,,Batting first won
+392205,Deccan Chargers,141,Rajasthan Royals,142,Rajasthan Royals,,3.0,Chasing team won
+392206,Chennai Super Kings,163,Delhi Daredevils,145,Chennai Super Kings,18.0,,Batting first won
+392207,Kolkata Knight Riders,153,Kings XI Punjab,154,Kings XI Punjab,,6.0,Chasing team won
+392208,Mumbai Indians,149,Royal Challengers Bangalore,150,Royal Challengers Bangalore,,9.0,Chasing team won
+392209,Chennai Super Kings,178,Deccan Chargers,100,Chennai Super Kings,78.0,,Batting first won
+392210,Rajasthan Royals,211,Kings XI Punjab,133,Rajasthan Royals,78.0,,Batting first won
+392211,Kolkata Knight Riders,154,Delhi Daredevils,157,Delhi Daredevils,,9.0,Chasing team won
+392212,Deccan Chargers,145,Mumbai Indians,126,Deccan Chargers,19.0,,Batting first won
+392213,Royal Challengers Bangalore,105,Rajasthan Royals,107,Rajasthan Royals,,7.0,Chasing team won
+392214,Chennai Super Kings,185,Kings XI Punjab,174,Chennai Super Kings,12.0,,Batting first won
+392215,Mumbai Indians,116,Delhi Daredevils,118,Delhi Daredevils,,7.0,Chasing team won
+392216,Deccan Chargers,168,Kings XI Punjab,169,Kings XI Punjab,,3.0,Chasing team won
+392217,Rajasthan Royals,140,Chennai Super Kings,141,Chennai Super Kings,,7.0,Chasing team won
+392218,Mumbai Indians,157,Royal Challengers Bangalore,141,Mumbai Indians,16.0,,Batting first won
+392219,Kolkata Knight Riders,123,Delhi Daredevils,125,Delhi Daredevils,,7.0,Chasing team won
+392220,Deccan Chargers,166,Rajasthan Royals,113,Deccan Chargers,53.0,,Batting first won
+392221,Kolkata Knight Riders,173,Royal Challengers Bangalore,176,Royal Challengers Bangalore,,6.0,Chasing team won
+392222,Kings XI Punjab,119,Mumbai Indians,122,Mumbai Indians,,8.0,Chasing team won
+392223,Delhi Daredevils,173,Deccan Chargers,161,Delhi Daredevils,12.0,,Batting first won
+392224,Chennai Super Kings,129,Royal Challengers Bangalore,132,Royal Challengers Bangalore,,2.0,Chasing team won
+392225,Rajasthan Royals,145,Mumbai Indians,143,Rajasthan Royals,2.0,,Batting first won
+392226,Delhi Daredevils,120,Kings XI Punjab,123,Kings XI Punjab,,6.0,Chasing team won
+392227,Mumbai Indians,147,Chennai Super Kings,151,Chennai Super Kings,,7.0,Chasing team won
+392228,Kolkata Knight Riders,160,Deccan Chargers,166,Deccan Chargers,,6.0,Chasing team won
+392229,Kings XI Punjab,134,Deccan Chargers,133,Kings XI Punjab,1.0,,Batting first won
+392230,Delhi Daredevils,150,Rajasthan Royals,136,Delhi Daredevils,14.0,,Batting first won
+392231,Chennai Super Kings,188,Kolkata Knight Riders,189,Kolkata Knight Riders,,7.0,Chasing team won
+392232,Delhi Daredevils,134,Royal Challengers Bangalore,135,Royal Challengers Bangalore,,7.0,Chasing team won
+392233,Rajasthan Royals,101,Kolkata Knight Riders,102,Kolkata Knight Riders,,4.0,Chasing team won
+392234,Chennai Super Kings,116,Kings XI Punjab,92,Chennai Super Kings,24.0,,Batting first won
+392235,Mumbai Indians,165,Delhi Daredevils,166,Delhi Daredevils,,4.0,Chasing team won
+392236,Royal Challengers Bangalore,170,Deccan Chargers,158,Royal Challengers Bangalore,12.0,,Batting first won
+392237,Delhi Daredevils,153,Deccan Chargers,154,Deccan Chargers,,6.0,Chasing team won
+392238,Chennai Super Kings,146,Royal Challengers Bangalore,149,Royal Challengers Bangalore,,6.0,Chasing team won
+392239,Deccan Chargers,143,Royal Challengers Bangalore,137,Deccan Chargers,6.0,,Batting first won
+419106,Kolkata Knight Riders,161,Deccan Chargers,150,Kolkata Knight Riders,11.0,,Batting first won
+419107,Mumbai Indians,212,Rajasthan Royals,208,Mumbai Indians,4.0,,Batting first won
+419108,Kings XI Punjab,142,Delhi Daredevils,146,Delhi Daredevils,,5.0,Chasing team won
+419109,Royal Challengers Bangalore,135,Kolkata Knight Riders,136,Kolkata Knight Riders,,7.0,Chasing team won
+419110,Deccan Chargers,190,Chennai Super Kings,159,Deccan Chargers,31.0,,Batting first won
+419111,Rajasthan Royals,141,Delhi Daredevils,142,Delhi Daredevils,,6.0,Chasing team won
+419112,Kings XI Punjab,203,Royal Challengers Bangalore,204,Royal Challengers Bangalore,,8.0,Chasing team won
+419113,Chennai Super Kings,164,Kolkata Knight Riders,109,Chennai Super Kings,55.0,,Batting first won
+419114,Mumbai Indians,218,Delhi Daredevils,120,Mumbai Indians,98.0,,Batting first won
+419115,Rajasthan Royals,92,Royal Challengers Bangalore,93,Royal Challengers Bangalore,,10.0,Chasing team won
+419116,Delhi Daredevils,185,Chennai Super Kings,190,Chennai Super Kings,,5.0,Chasing team won
+419117,Deccan Chargers,170,Kings XI Punjab,164,Deccan Chargers,6.0,,Batting first won
+419118,Rajasthan Royals,168,Kolkata Knight Riders,134,Rajasthan Royals,34.0,,Batting first won
+419119,Mumbai Indians,151,Royal Challengers Bangalore,155,Royal Challengers Bangalore,,7.0,Chasing team won
+419120,Deccan Chargers,171,Delhi Daredevils,161,Deccan Chargers,10.0,,Batting first won
+419121,Kings XI Punjab,136,Chennai Super Kings,136,,,,No recorded winner / other result
+419122,Kolkata Knight Riders,155,Mumbai Indians,156,Mumbai Indians,,7.0,Chasing team won
+419123,Royal Challengers Bangalore,171,Chennai Super Kings,135,Royal Challengers Bangalore,36.0,,Batting first won
+419124,Rajasthan Royals,183,Kings XI Punjab,152,Rajasthan Royals,31.0,,Batting first won
+419125,Chennai Super Kings,180,Mumbai Indians,181,Mumbai Indians,,5.0,Chasing team won
+419126,Deccan Chargers,148,Rajasthan Royals,151,Rajasthan Royals,,8.0,Chasing team won
+419127,Kolkata Knight Riders,183,Kings XI Punjab,144,Kolkata Knight Riders,39.0,,Batting first won
+419128,Delhi Daredevils,183,Royal Challengers Bangalore,166,Delhi Daredevils,17.0,,Batting first won
+419129,Rajasthan Royals,177,Chennai Super Kings,160,Rajasthan Royals,17.0,,Batting first won
+419130,Mumbai Indians,172,Deccan Chargers,131,Mumbai Indians,41.0,,Batting first won
+419131,Delhi Daredevils,177,Kolkata Knight Riders,137,Delhi Daredevils,40.0,,Batting first won
+419132,Kings XI Punjab,163,Mumbai Indians,164,Mumbai Indians,,4.0,Chasing team won
+419133,Royal Challengers Bangalore,161,Chennai Super Kings,162,Chennai Super Kings,,5.0,Chasing team won
+419134,Delhi Daredevils,188,Rajasthan Royals,121,Delhi Daredevils,67.0,,Batting first won
+419135,Kolkata Knight Riders,181,Deccan Chargers,157,Kolkata Knight Riders,24.0,,Batting first won
+419136,Kings XI Punjab,181,Royal Challengers Bangalore,184,Royal Challengers Bangalore,,6.0,Chasing team won
+419137,Chennai Super Kings,246,Rajasthan Royals,223,Chennai Super Kings,23.0,,Batting first won
+419138,Mumbai Indians,178,Deccan Chargers,115,Mumbai Indians,63.0,,Batting first won
+419139,Kolkata Knight Riders,200,Kings XI Punjab,204,Kings XI Punjab,,8.0,Chasing team won
+419140,Delhi Daredevils,184,Royal Challengers Bangalore,147,Delhi Daredevils,37.0,,Batting first won
+419141,Rajasthan Royals,159,Deccan Chargers,157,Rajasthan Royals,2.0,,Batting first won
+419142,Chennai Super Kings,165,Mumbai Indians,141,Chennai Super Kings,24.0,,Batting first won
+419143,Kings XI Punjab,153,Rajasthan Royals,157,Rajasthan Royals,,9.0,Chasing team won
+419144,Kolkata Knight Riders,181,Delhi Daredevils,167,Kolkata Knight Riders,14.0,,Batting first won
+419145,Royal Challengers Bangalore,184,Deccan Chargers,186,Deccan Chargers,,7.0,Chasing team won
+419146,Mumbai Indians,154,Kings XI Punjab,158,Kings XI Punjab,,6.0,Chasing team won
+419147,Chennai Super Kings,138,Deccan Chargers,139,Deccan Chargers,,6.0,Chasing team won
+419148,Kolkata Knight Riders,160,Royal Challengers Bangalore,162,Royal Challengers Bangalore,,7.0,Chasing team won
+419149,Delhi Daredevils,111,Kings XI Punjab,112,Kings XI Punjab,,7.0,Chasing team won
+419150,Mumbai Indians,174,Rajasthan Royals,137,Mumbai Indians,37.0,,Batting first won
+419151,Deccan Chargers,151,Royal Challengers Bangalore,138,Deccan Chargers,13.0,,Batting first won
+419152,Mumbai Indians,183,Delhi Daredevils,144,Mumbai Indians,39.0,,Batting first won
+419153,Kolkata Knight Riders,139,Chennai Super Kings,143,Chennai Super Kings,,9.0,Chasing team won
+419154,Rajasthan Royals,130,Royal Challengers Bangalore,132,Royal Challengers Bangalore,,5.0,Chasing team won
+419155,Chennai Super Kings,112,Delhi Daredevils,113,Delhi Daredevils,,6.0,Chasing team won
+419156,Kings XI Punjab,174,Deccan Chargers,178,Deccan Chargers,,5.0,Chasing team won
+419157,Mumbai Indians,191,Royal Challengers Bangalore,134,Mumbai Indians,57.0,,Batting first won
+419158,Rajasthan Royals,132,Kolkata Knight Riders,133,Kolkata Knight Riders,,8.0,Chasing team won
+419159,Kings XI Punjab,192,Chennai Super Kings,195,Chennai Super Kings,,6.0,Chasing team won
+419160,Deccan Chargers,145,Delhi Daredevils,134,Deccan Chargers,11.0,,Batting first won
+419161,Mumbai Indians,133,Kolkata Knight Riders,135,Kolkata Knight Riders,,9.0,Chasing team won
+419162,Mumbai Indians,184,Royal Challengers Bangalore,149,Mumbai Indians,35.0,,Batting first won
+419163,Chennai Super Kings,142,Deccan Chargers,104,Chennai Super Kings,38.0,,Batting first won
+419164,Deccan Chargers,82,Royal Challengers Bangalore,86,Royal Challengers Bangalore,,9.0,Chasing team won
+419165,Chennai Super Kings,168,Mumbai Indians,146,Chennai Super Kings,22.0,,Batting first won
+501198,Chennai Super Kings,153,Kolkata Knight Riders,151,Chennai Super Kings,2.0,,Batting first won
+501199,Deccan Chargers,137,Rajasthan Royals,141,Rajasthan Royals,,8.0,Chasing team won
+501200,Kochi Tuskers Kerala,161,Royal Challengers Bangalore,162,Royal Challengers Bangalore,,6.0,Chasing team won
+501201,Delhi Daredevils,95,Mumbai Indians,99,Mumbai Indians,,8.0,Chasing team won
+501202,Kings XI Punjab,112,Pune Warriors,113,Pune Warriors,,7.0,Chasing team won
+501203,Kolkata Knight Riders,163,Deccan Chargers,154,Kolkata Knight Riders,9.0,,Batting first won
+501204,Delhi Daredevils,151,Rajasthan Royals,152,Rajasthan Royals,,6.0,Chasing team won
+501205,Royal Challengers Bangalore,140,Mumbai Indians,143,Mumbai Indians,,9.0,Chasing team won
+501206,Chennai Super Kings,188,Kings XI Punjab,193,Kings XI Punjab,,6.0,Chasing team won
+501207,Kochi Tuskers Kerala,148,Pune Warriors,151,Pune Warriors,,4.0,Chasing team won
+501208,Deccan Chargers,175,Royal Challengers Bangalore,142,Deccan Chargers,33.0,,Batting first won
+501209,Rajasthan Royals,159,Kolkata Knight Riders,160,Kolkata Knight Riders,,9.0,Chasing team won
+501210,Mumbai Indians,182,Kochi Tuskers Kerala,184,Kochi Tuskers Kerala,,8.0,Chasing team won
+501211,Chennai Super Kings,183,Royal Challengers Bangalore,162,Chennai Super Kings,21.0,,Batting first won
+501212,Deccan Chargers,165,Kings XI Punjab,166,Kings XI Punjab,,8.0,Chasing team won
+501213,Pune Warriors,187,Delhi Daredevils,190,Delhi Daredevils,,3.0,Chasing team won
+501214,Rajasthan Royals,81,Kolkata Knight Riders,85,Kolkata Knight Riders,,8.0,Chasing team won
+501215,Chennai Super Kings,131,Kochi Tuskers Kerala,135,Kochi Tuskers Kerala,,7.0,Chasing team won
+501216,Deccan Chargers,168,Delhi Daredevils,152,Deccan Chargers,16.0,,Batting first won
+501218,Pune Warriors,118,Mumbai Indians,124,Mumbai Indians,,7.0,Chasing team won
+501219,Kochi Tuskers Kerala,132,Kolkata Knight Riders,126,Kochi Tuskers Kerala,6.0,,Batting first won
+501220,Kings XI Punjab,195,Rajasthan Royals,147,Kings XI Punjab,48.0,,Batting first won
+501221,Mumbai Indians,164,Chennai Super Kings,156,Mumbai Indians,8.0,,Batting first won
+501222,Kolkata Knight Riders,171,Royal Challengers Bangalore,175,Royal Challengers Bangalore,,9.0,Chasing team won
+501223,Delhi Daredevils,231,Kings XI Punjab,202,Delhi Daredevils,29.0,,Batting first won
+501224,Mumbai Indians,172,Deccan Chargers,135,Mumbai Indians,37.0,,Batting first won
+501225,Kochi Tuskers Kerala,109,Rajasthan Royals,111,Rajasthan Royals,,8.0,Chasing team won
+501226,Chennai Super Kings,142,Pune Warriors,117,Chennai Super Kings,25.0,,Batting first won
+501227,Delhi Daredevils,160,Royal Challengers Bangalore,161,Royal Challengers Bangalore,,3.0,Chasing team won
+501228,Pune Warriors,141,Chennai Super Kings,145,Chennai Super Kings,,8.0,Chasing team won
+501229,Deccan Chargers,129,Kochi Tuskers Kerala,74,Deccan Chargers,55.0,,Batting first won
+501230,Kolkata Knight Riders,148,Delhi Daredevils,131,Kolkata Knight Riders,17.0,,Batting first won
+501231,Mumbai Indians,94,Rajasthan Royals,95,Rajasthan Royals,,7.0,Chasing team won
+501232,Royal Challengers Bangalore,181,Pune Warriors,155,Royal Challengers Bangalore,26.0,,Batting first won
+501233,Delhi Daredevils,157,Kochi Tuskers Kerala,119,Delhi Daredevils,38.0,,Batting first won
+501234,Kings XI Punjab,119,Kolkata Knight Riders,120,Kolkata Knight Riders,,8.0,Chasing team won
+501235,Pune Warriors,143,Rajasthan Royals,144,Rajasthan Royals,,6.0,Chasing team won
+501236,Chennai Super Kings,165,Deccan Chargers,146,Chennai Super Kings,19.0,,Batting first won
+501237,Mumbai Indians,159,Kings XI Punjab,136,Mumbai Indians,23.0,,Batting first won
+501238,Delhi Daredevils,140,Kochi Tuskers Kerala,141,Kochi Tuskers Kerala,,7.0,Chasing team won
+501239,Kolkata Knight Riders,169,Deccan Chargers,149,Kolkata Knight Riders,20.0,,Batting first won
+501240,Rajasthan Royals,147,Chennai Super Kings,149,Chennai Super Kings,,8.0,Chasing team won
+501241,Mumbai Indians,160,Pune Warriors,139,Mumbai Indians,21.0,,Batting first won
+501242,Kochi Tuskers Kerala,156,Kolkata Knight Riders,139,Kochi Tuskers Kerala,17.0,,Batting first won
+501243,Deccan Chargers,175,Delhi Daredevils,179,Delhi Daredevils,,4.0,Chasing team won
+501244,Royal Challengers Bangalore,205,Kings XI Punjab,120,Royal Challengers Bangalore,85.0,,Batting first won
+501245,Chennai Super Kings,114,Kolkata Knight Riders,61,Kolkata Knight Riders,10.0,,Chasing team won
+501246,Mumbai Indians,178,Delhi Daredevils,146,Mumbai Indians,32.0,,Batting first won
+501247,Kochi Tuskers Kerala,125,Royal Challengers Bangalore,128,Royal Challengers Bangalore,,9.0,Chasing team won
+501248,Kings XI Punjab,119,Pune Warriors,120,Pune Warriors,,5.0,Chasing team won
+501249,Chennai Super Kings,196,Rajasthan Royals,133,Chennai Super Kings,63.0,,Batting first won
+501250,Deccan Chargers,136,Pune Warriors,137,Pune Warriors,,6.0,Chasing team won
+501251,Kings XI Punjab,163,Mumbai Indians,87,Kings XI Punjab,76.0,,Batting first won
+501252,Rajasthan Royals,146,Royal Challengers Bangalore,151,Royal Challengers Bangalore,,9.0,Chasing team won
+501253,Chennai Super Kings,176,Delhi Daredevils,158,Chennai Super Kings,18.0,,Batting first won
+501254,Kochi Tuskers Kerala,178,Kings XI Punjab,181,Kings XI Punjab,,6.0,Chasing team won
+501255,Kolkata Knight Riders,89,Royal Challengers Bangalore,105,Royal Challengers Bangalore,,4.0,Chasing team won
+501256,Deccan Chargers,135,Mumbai Indians,125,Deccan Chargers,10.0,,Batting first won
+501257,Kings XI Punjab,170,Delhi Daredevils,141,Kings XI Punjab,29.0,,Batting first won
+501258,Rajasthan Royals,97,Kochi Tuskers Kerala,98,Kochi Tuskers Kerala,,8.0,Chasing team won
+501259,Pune Warriors,136,Deccan Chargers,138,Deccan Chargers,,6.0,Chasing team won
+501260,Kings XI Punjab,232,Royal Challengers Bangalore,121,Kings XI Punjab,111.0,,Batting first won
+501261,Chennai Super Kings,152,Kochi Tuskers Kerala,141,Chennai Super Kings,11.0,,Batting first won
+501262,Pune Warriors,118,Kolkata Knight Riders,119,Kolkata Knight Riders,,7.0,Chasing team won
+501263,Mumbai Indians,133,Rajasthan Royals,134,Rajasthan Royals,,10.0,Chasing team won
+501264,Deccan Chargers,198,Kings XI Punjab,116,Deccan Chargers,82.0,,Batting first won
+501266,Chennai Super Kings,128,Royal Challengers Bangalore,129,Royal Challengers Bangalore,,8.0,Chasing team won
+501267,Kolkata Knight Riders,175,Mumbai Indians,178,Mumbai Indians,,5.0,Chasing team won
+501268,Royal Challengers Bangalore,175,Chennai Super Kings,177,Chennai Super Kings,,6.0,Chasing team won
+501269,Kolkata Knight Riders,147,Mumbai Indians,148,Mumbai Indians,,4.0,Chasing team won
+501270,Royal Challengers Bangalore,185,Mumbai Indians,142,Royal Challengers Bangalore,43.0,,Batting first won
+501271,Chennai Super Kings,205,Royal Challengers Bangalore,147,Chennai Super Kings,58.0,,Batting first won
+548306,Chennai Super Kings,112,Mumbai Indians,115,Mumbai Indians,,8.0,Chasing team won
+548307,Kolkata Knight Riders,97,Delhi Daredevils,100,Delhi Daredevils,,8.0,Chasing team won
+548308,Pune Warriors,129,Mumbai Indians,101,Pune Warriors,28.0,,Batting first won
+548309,Rajasthan Royals,191,Kings XI Punjab,160,Rajasthan Royals,31.0,,Batting first won
+548310,Royal Challengers Bangalore,157,Delhi Daredevils,137,Royal Challengers Bangalore,20.0,,Batting first won
+548311,Chennai Super Kings,193,Deccan Chargers,119,Chennai Super Kings,74.0,,Batting first won
+548312,Rajasthan Royals,164,Kolkata Knight Riders,142,Rajasthan Royals,22.0,,Batting first won
+548313,Pune Warriors,166,Kings XI Punjab,144,Pune Warriors,22.0,,Batting first won
+548314,Deccan Chargers,138,Mumbai Indians,142,Mumbai Indians,,5.0,Chasing team won
+548315,Kolkata Knight Riders,165,Royal Challengers Bangalore,123,Kolkata Knight Riders,42.0,,Batting first won
+548316,Chennai Super Kings,110,Delhi Daredevils,111,Delhi Daredevils,,8.0,Chasing team won
+548317,Mumbai Indians,197,Rajasthan Royals,170,Mumbai Indians,27.0,,Batting first won
+548318,Royal Challengers Bangalore,205,Chennai Super Kings,208,Chennai Super Kings,,5.0,Chasing team won
+548319,Pune Warriors,115,Kings XI Punjab,116,Kings XI Punjab,,7.0,Chasing team won
+548320,Rajasthan Royals,131,Kolkata Knight Riders,137,Kolkata Knight Riders,,5.0,Chasing team won
+548321,Deccan Chargers,157,Delhi Daredevils,162,Delhi Daredevils,,5.0,Chasing team won
+548322,Chennai Super Kings,155,Pune Warriors,156,Pune Warriors,,7.0,Chasing team won
+548323,Kings XI Punjab,134,Kolkata Knight Riders,132,Kings XI Punjab,2.0,,Batting first won
+548324,Rajasthan Royals,195,Royal Challengers Bangalore,136,Rajasthan Royals,59.0,,Batting first won
+548325,Mumbai Indians,92,Delhi Daredevils,93,Delhi Daredevils,,7.0,Chasing team won
+548326,Deccan Chargers,196,Rajasthan Royals,197,Rajasthan Royals,,5.0,Chasing team won
+548327,Pune Warriors,182,Royal Challengers Bangalore,186,Royal Challengers Bangalore,,6.0,Chasing team won
+548328,Kings XI Punjab,124,Kolkata Knight Riders,127,Kolkata Knight Riders,,8.0,Chasing team won
+548329,Deccan Chargers,187,Delhi Daredevils,193,Delhi Daredevils,,9.0,Chasing team won
+548330,Chennai Super Kings,164,Pune Warriors,151,Chennai Super Kings,13.0,,Batting first won
+548331,Kings XI Punjab,163,Royal Challengers Bangalore,166,Royal Challengers Bangalore,,5.0,Chasing team won
+548332,Rajasthan Royals,146,Chennai Super Kings,147,Chennai Super Kings,,7.0,Chasing team won
+548333,Pune Warriors,192,Delhi Daredevils,172,Pune Warriors,20.0,,Batting first won
+548334,Mumbai Indians,163,Kings XI Punjab,164,Kings XI Punjab,,6.0,Chasing team won
+548335,Deccan Chargers,126,Kolkata Knight Riders,127,Kolkata Knight Riders,,5.0,Chasing team won
+548336,Royal Challengers Bangalore,189,Rajasthan Royals,143,Royal Challengers Bangalore,46.0,,Batting first won
+548337,Pune Warriors,146,Delhi Daredevils,148,Delhi Daredevils,,8.0,Chasing team won
+548339,Kings XI Punjab,168,Mumbai Indians,171,Mumbai Indians,,4.0,Chasing team won
+548341,Deccan Chargers,177,Pune Warriors,159,Deccan Chargers,18.0,,Batting first won
+548342,Delhi Daredevils,207,Mumbai Indians,170,Delhi Daredevils,37.0,,Batting first won
+548343,Kings XI Punjab,156,Chennai Super Kings,149,Kings XI Punjab,7.0,,Batting first won
+548344,Kolkata Knight Riders,190,Royal Challengers Bangalore,143,Kolkata Knight Riders,47.0,,Batting first won
+548345,Delhi Daredevils,152,Rajasthan Royals,151,Delhi Daredevils,1.0,,Batting first won
+548346,Deccan Chargers,100,Mumbai Indians,101,Mumbai Indians,,5.0,Chasing team won
+548347,Chennai Super Kings,139,Kolkata Knight Riders,140,Kolkata Knight Riders,,5.0,Chasing team won
+548348,Deccan Chargers,186,Pune Warriors,173,Deccan Chargers,13.0,,Batting first won
+548349,Rajasthan Royals,141,Delhi Daredevils,144,Delhi Daredevils,,6.0,Chasing team won
+548350,Royal Challengers Bangalore,158,Kings XI Punjab,163,Kings XI Punjab,,4.0,Chasing team won
+548351,Mumbai Indians,120,Pune Warriors,119,Mumbai Indians,1.0,,Batting first won
+548352,Chennai Super Kings,160,Deccan Chargers,150,Chennai Super Kings,10.0,,Batting first won
+548353,Kolkata Knight Riders,150,Pune Warriors,143,Kolkata Knight Riders,7.0,,Batting first won
+548354,Rajasthan Royals,177,Kings XI Punjab,134,Rajasthan Royals,43.0,,Batting first won
+548355,Chennai Super Kings,173,Mumbai Indians,174,Mumbai Indians,,2.0,Chasing team won
+548356,Deccan Chargers,181,Royal Challengers Bangalore,185,Royal Challengers Bangalore,,5.0,Chasing team won
+548357,Delhi Daredevils,153,Kolkata Knight Riders,154,Kolkata Knight Riders,,6.0,Chasing team won
+548358,Pune Warriors,125,Rajasthan Royals,126,Rajasthan Royals,,7.0,Chasing team won
+548359,Kings XI Punjab,170,Deccan Chargers,145,Kings XI Punjab,25.0,,Batting first won
+548360,Mumbai Indians,141,Royal Challengers Bangalore,142,Royal Challengers Bangalore,,9.0,Chasing team won
+548361,Rajasthan Royals,126,Chennai Super Kings,127,Chennai Super Kings,,4.0,Chasing team won
+548362,Royal Challengers Bangalore,173,Pune Warriors,138,Royal Challengers Bangalore,35.0,,Batting first won
+548363,Mumbai Indians,182,Kolkata Knight Riders,155,Mumbai Indians,27.0,,Batting first won
+548364,Delhi Daredevils,114,Chennai Super Kings,115,Chennai Super Kings,,9.0,Chasing team won
+548365,Rajasthan Royals,170,Pune Warriors,125,Rajasthan Royals,45.0,,Batting first won
+548366,Deccan Chargers,190,Kings XI Punjab,194,Kings XI Punjab,,4.0,Chasing team won
+548367,Royal Challengers Bangalore,171,Mumbai Indians,173,Mumbai Indians,,5.0,Chasing team won
+548368,Kolkata Knight Riders,158,Chennai Super Kings,160,Chennai Super Kings,,5.0,Chasing team won
+548369,Kings XI Punjab,136,Delhi Daredevils,140,Delhi Daredevils,,5.0,Chasing team won
+548370,Kolkata Knight Riders,140,Mumbai Indians,108,Kolkata Knight Riders,32.0,,Batting first won
+548371,Chennai Super Kings,120,Kings XI Punjab,123,Kings XI Punjab,,6.0,Chasing team won
+548372,Royal Challengers Bangalore,215,Delhi Daredevils,194,Royal Challengers Bangalore,21.0,,Batting first won
+548373,Rajasthan Royals,126,Deccan Chargers,128,Deccan Chargers,,5.0,Chasing team won
+548374,Kings XI Punjab,141,Delhi Daredevils,145,Delhi Daredevils,,6.0,Chasing team won
+548375,Kolkata Knight Riders,136,Pune Warriors,102,Kolkata Knight Riders,34.0,,Batting first won
+548376,Deccan Chargers,132,Royal Challengers Bangalore,123,Deccan Chargers,9.0,,Batting first won
+548377,Rajasthan Royals,162,Mumbai Indians,163,Mumbai Indians,,10.0,Chasing team won
+548378,Kolkata Knight Riders,162,Delhi Daredevils,144,Kolkata Knight Riders,18.0,,Batting first won
+548379,Chennai Super Kings,187,Mumbai Indians,149,Chennai Super Kings,38.0,,Batting first won
+548380,Chennai Super Kings,222,Delhi Daredevils,136,Chennai Super Kings,86.0,,Batting first won
+548381,Chennai Super Kings,190,Kolkata Knight Riders,192,Kolkata Knight Riders,,5.0,Chasing team won
+597998,Delhi Daredevils,128,Kolkata Knight Riders,129,Kolkata Knight Riders,,6.0,Chasing team won
+597999,Royal Challengers Bangalore,156,Mumbai Indians,154,Royal Challengers Bangalore,2.0,,Batting first won
+598000,Sunrisers Hyderabad,126,Pune Warriors,104,Sunrisers Hyderabad,22.0,,Batting first won
+598001,Rajasthan Royals,165,Delhi Daredevils,160,Rajasthan Royals,5.0,,Batting first won
+598002,Mumbai Indians,148,Chennai Super Kings,139,Mumbai Indians,9.0,,Batting first won
+598003,Pune Warriors,99,Kings XI Punjab,100,Kings XI Punjab,,8.0,Chasing team won
+598004,Royal Challengers Bangalore,130,Sunrisers Hyderabad,130,,,,No recorded winner / other result
+598005,Rajasthan Royals,144,Kolkata Knight Riders,125,Rajasthan Royals,19.0,,Batting first won
+598006,Mumbai Indians,209,Delhi Daredevils,165,Mumbai Indians,44.0,,Batting first won
+598007,Kings XI Punjab,138,Chennai Super Kings,139,Chennai Super Kings,,10.0,Chasing team won
+598008,Kolkata Knight Riders,154,Royal Challengers Bangalore,158,Royal Challengers Bangalore,,8.0,Chasing team won
+598009,Rajasthan Royals,145,Pune Warriors,148,Pune Warriors,,7.0,Chasing team won
+598010,Delhi Daredevils,114,Sunrisers Hyderabad,115,Sunrisers Hyderabad,,3.0,Chasing team won
+598011,Mumbai Indians,183,Pune Warriors,142,Mumbai Indians,41.0,,Batting first won
+598012,Royal Challengers Bangalore,165,Chennai Super Kings,166,Chennai Super Kings,,4.0,Chasing team won
+598013,Kolkata Knight Riders,180,Sunrisers Hyderabad,132,Kolkata Knight Riders,48.0,,Batting first won
+598014,Kings XI Punjab,124,Rajasthan Royals,126,Rajasthan Royals,,6.0,Chasing team won
+598015,Pune Warriors,159,Chennai Super Kings,135,Pune Warriors,24.0,,Batting first won
+598016,Kings XI Punjab,157,Kolkata Knight Riders,153,Kings XI Punjab,4.0,,Batting first won
+598017,Delhi Daredevils,152,Royal Challengers Bangalore,152,,,,No recorded winner / other result
+598018,Sunrisers Hyderabad,119,Pune Warriors,108,Sunrisers Hyderabad,11.0,,Batting first won
+598019,Rajasthan Royals,179,Mumbai Indians,92,Rajasthan Royals,87.0,,Batting first won
+598020,Chennai Super Kings,169,Delhi Daredevils,83,Chennai Super Kings,86.0,,Batting first won
+598021,Kings XI Punjab,123,Sunrisers Hyderabad,127,Sunrisers Hyderabad,,5.0,Chasing team won
+598022,Kolkata Knight Riders,119,Chennai Super Kings,124,Chennai Super Kings,,4.0,Chasing team won
+598023,Rajasthan Royals,117,Royal Challengers Bangalore,123,Royal Challengers Bangalore,,7.0,Chasing team won
+598024,Mumbai Indians,161,Delhi Daredevils,165,Delhi Daredevils,,9.0,Chasing team won
+598025,Pune Warriors,185,Kings XI Punjab,186,Kings XI Punjab,,7.0,Chasing team won
+598026,Rajasthan Royals,185,Chennai Super Kings,186,Chennai Super Kings,,5.0,Chasing team won
+598027,Royal Challengers Bangalore,263,Pune Warriors,133,Royal Challengers Bangalore,130.0,,Batting first won
+598028,Kings XI Punjab,171,Delhi Daredevils,164,Kings XI Punjab,7.0,,Batting first won
+598029,Kolkata Knight Riders,159,Mumbai Indians,162,Mumbai Indians,,5.0,Chasing team won
+598030,Sunrisers Hyderabad,159,Chennai Super Kings,160,Chennai Super Kings,,5.0,Chasing team won
+598031,Kings XI Punjab,149,Kolkata Knight Riders,150,Kolkata Knight Riders,,6.0,Chasing team won
+598032,Sunrisers Hyderabad,144,Rajasthan Royals,146,Rajasthan Royals,,8.0,Chasing team won
+598033,Mumbai Indians,194,Royal Challengers Bangalore,136,Mumbai Indians,58.0,,Batting first won
+598034,Chennai Super Kings,200,Kolkata Knight Riders,186,Chennai Super Kings,14.0,,Batting first won
+598035,Delhi Daredevils,164,Pune Warriors,149,Delhi Daredevils,15.0,,Batting first won
+598036,Royal Challengers Bangalore,171,Rajasthan Royals,173,Rajasthan Royals,,4.0,Chasing team won
+598037,Mumbai Indians,174,Kings XI Punjab,170,Mumbai Indians,4.0,,Batting first won
+598038,Chennai Super Kings,164,Pune Warriors,127,Chennai Super Kings,37.0,,Batting first won
+598039,Mumbai Indians,129,Sunrisers Hyderabad,130,Sunrisers Hyderabad,,7.0,Chasing team won
+598040,Kolkata Knight Riders,136,Delhi Daredevils,137,Delhi Daredevils,,7.0,Chasing team won
+598041,Chennai Super Kings,186,Kings XI Punjab,171,Chennai Super Kings,15.0,,Batting first won
+598042,Royal Challengers Bangalore,187,Pune Warriors,170,Royal Challengers Bangalore,17.0,,Batting first won
+598043,Rajasthan Royals,132,Kolkata Knight Riders,133,Kolkata Knight Riders,,8.0,Chasing team won
+598044,Delhi Daredevils,80,Sunrisers Hyderabad,81,Sunrisers Hyderabad,,6.0,Chasing team won
+598045,Royal Challengers Bangalore,174,Kings XI Punjab,176,Kings XI Punjab,,7.0,Chasing team won
+598046,Mumbai Indians,139,Chennai Super Kings,79,Mumbai Indians,60.0,,Batting first won
+598047,Pune Warriors,178,Rajasthan Royals,182,Rajasthan Royals,,5.0,Chasing team won
+598048,Sunrisers Hyderabad,161,Royal Challengers Bangalore,162,Royal Challengers Bangalore,,7.0,Chasing team won
+598049,Delhi Daredevils,154,Rajasthan Royals,155,Rajasthan Royals,,9.0,Chasing team won
+598050,Mumbai Indians,170,Kolkata Knight Riders,105,Mumbai Indians,65.0,,Batting first won
+598051,Chennai Super Kings,223,Sunrisers Hyderabad,146,Chennai Super Kings,77.0,,Batting first won
+598052,Kings XI Punjab,145,Rajasthan Royals,147,Rajasthan Royals,,8.0,Chasing team won
+598053,Kolkata Knight Riders,152,Pune Warriors,106,Kolkata Knight Riders,46.0,,Batting first won
+598054,Royal Challengers Bangalore,183,Delhi Daredevils,179,Royal Challengers Bangalore,4.0,,Batting first won
+598055,Pune Warriors,112,Mumbai Indians,116,Mumbai Indians,,5.0,Chasing team won
+598056,Sunrisers Hyderabad,150,Kings XI Punjab,120,Sunrisers Hyderabad,30.0,,Batting first won
+598057,Royal Challengers Bangalore,115,Kolkata Knight Riders,116,Kolkata Knight Riders,,5.0,Chasing team won
+598058,Chennai Super Kings,141,Rajasthan Royals,144,Rajasthan Royals,,5.0,Chasing team won
+598059,Delhi Daredevils,120,Kings XI Punjab,121,Kings XI Punjab,,5.0,Chasing team won
+598060,Sunrisers Hyderabad,178,Mumbai Indians,184,Mumbai Indians,,7.0,Chasing team won
+598061,Pune Warriors,170,Kolkata Knight Riders,163,Pune Warriors,7.0,,Batting first won
+598062,Chennai Super Kings,168,Delhi Daredevils,135,Chennai Super Kings,33.0,,Batting first won
+598063,Mumbai Indians,166,Rajasthan Royals,152,Mumbai Indians,14.0,,Batting first won
+598064,Royal Challengers Bangalore,190,Kings XI Punjab,194,Kings XI Punjab,,6.0,Chasing team won
+598065,Sunrisers Hyderabad,136,Rajasthan Royals,113,Sunrisers Hyderabad,23.0,,Batting first won
+598066,Kings XI Punjab,183,Mumbai Indians,133,Kings XI Punjab,50.0,,Batting first won
+598067,Pune Warriors,172,Delhi Daredevils,134,Pune Warriors,38.0,,Batting first won
+598068,Royal Challengers Bangalore,106,Chennai Super Kings,82,Royal Challengers Bangalore,24.0,,Batting first won
+598069,Kolkata Knight Riders,130,Sunrisers Hyderabad,132,Sunrisers Hyderabad,,5.0,Chasing team won
+598070,Chennai Super Kings,192,Mumbai Indians,144,Chennai Super Kings,48.0,,Batting first won
+598071,Sunrisers Hyderabad,132,Rajasthan Royals,135,Rajasthan Royals,,4.0,Chasing team won
+598072,Rajasthan Royals,165,Mumbai Indians,169,Mumbai Indians,,4.0,Chasing team won
+598073,Mumbai Indians,148,Chennai Super Kings,125,Mumbai Indians,23.0,,Batting first won
+729279,Kolkata Knight Riders,163,Mumbai Indians,122,Kolkata Knight Riders,41.0,,Batting first won
+729281,Delhi Daredevils,145,Royal Challengers Bangalore,146,Royal Challengers Bangalore,,8.0,Chasing team won
+729283,Chennai Super Kings,205,Kings XI Punjab,206,Kings XI Punjab,,6.0,Chasing team won
+729285,Sunrisers Hyderabad,133,Rajasthan Royals,135,Rajasthan Royals,,4.0,Chasing team won
+729287,Mumbai Indians,115,Royal Challengers Bangalore,116,Royal Challengers Bangalore,,7.0,Chasing team won
+729289,Kolkata Knight Riders,166,Delhi Daredevils,167,Delhi Daredevils,,4.0,Chasing team won
+729291,Rajasthan Royals,191,Kings XI Punjab,193,Kings XI Punjab,,7.0,Chasing team won
+729293,Chennai Super Kings,177,Delhi Daredevils,84,Chennai Super Kings,93.0,,Batting first won
+729295,Kings XI Punjab,193,Sunrisers Hyderabad,121,Kings XI Punjab,72.0,,Batting first won
+729297,Chennai Super Kings,140,Rajasthan Royals,133,Chennai Super Kings,7.0,,Batting first won
+729299,Kolkata Knight Riders,150,Royal Challengers Bangalore,148,Kolkata Knight Riders,2.0,,Batting first won
+729301,Sunrisers Hyderabad,184,Delhi Daredevils,180,Sunrisers Hyderabad,4.0,,Batting first won
+729303,Mumbai Indians,141,Chennai Super Kings,142,Chennai Super Kings,,7.0,Chasing team won
+729305,Royal Challengers Bangalore,70,Rajasthan Royals,71,Rajasthan Royals,,6.0,Chasing team won
+729307,Kings XI Punjab,132,Kolkata Knight Riders,109,Kings XI Punjab,23.0,,Batting first won
+729309,Mumbai Indians,125,Delhi Daredevils,126,Delhi Daredevils,,6.0,Chasing team won
+729311,Sunrisers Hyderabad,145,Chennai Super Kings,146,Chennai Super Kings,,5.0,Chasing team won
+729313,Royal Challengers Bangalore,124,Kings XI Punjab,127,Kings XI Punjab,,5.0,Chasing team won
+729315,Rajasthan Royals,152,Kolkata Knight Riders,152,,,,No recorded winner / other result
+729317,Sunrisers Hyderabad,172,Mumbai Indians,157,Sunrisers Hyderabad,15.0,,Batting first won
+733971,Chennai Super Kings,148,Kolkata Knight Riders,114,Chennai Super Kings,34.0,,Batting first won
+733973,Kings XI Punjab,168,Mumbai Indians,170,Mumbai Indians,,5.0,Chasing team won
+733975,Delhi Daredevils,152,Rajasthan Royals,156,Rajasthan Royals,,7.0,Chasing team won
+733977,Sunrisers Hyderabad,155,Royal Challengers Bangalore,158,Royal Challengers Bangalore,,4.0,Chasing team won
+733979,Rajasthan Royals,170,Kolkata Knight Riders,160,Rajasthan Royals,10.0,,Batting first won
+733981,Delhi Daredevils,178,Chennai Super Kings,181,Chennai Super Kings,,8.0,Chasing team won
+733983,Mumbai Indians,187,Royal Challengers Bangalore,168,Mumbai Indians,19.0,,Batting first won
+733985,Delhi Daredevils,160,Kolkata Knight Riders,161,Kolkata Knight Riders,,8.0,Chasing team won
+733987,Kings XI Punjab,231,Chennai Super Kings,187,Kings XI Punjab,44.0,,Batting first won
+733989,Sunrisers Hyderabad,134,Rajasthan Royals,102,Sunrisers Hyderabad,32.0,,Batting first won
+733991,Kings XI Punjab,198,Royal Challengers Bangalore,166,Kings XI Punjab,32.0,,Batting first won
+733993,Delhi Daredevils,143,Sunrisers Hyderabad,44,Sunrisers Hyderabad,,8.0,Chasing team won
+733995,Mumbai Indians,157,Chennai Super Kings,160,Chennai Super Kings,,4.0,Chasing team won
+733997,Kings XI Punjab,149,Kolkata Knight Riders,150,Kolkata Knight Riders,,9.0,Chasing team won
+733999,Royal Challengers Bangalore,190,Rajasthan Royals,191,Rajasthan Royals,,5.0,Chasing team won
+734001,Sunrisers Hyderabad,157,Mumbai Indians,160,Mumbai Indians,,7.0,Chasing team won
+734003,Rajasthan Royals,148,Chennai Super Kings,149,Chennai Super Kings,,5.0,Chasing team won
+734005,Royal Challengers Bangalore,186,Delhi Daredevils,170,Royal Challengers Bangalore,16.0,,Batting first won
+734007,Sunrisers Hyderabad,205,Kings XI Punjab,211,Kings XI Punjab,,6.0,Chasing team won
+734009,Mumbai Indians,141,Kolkata Knight Riders,142,Kolkata Knight Riders,,6.0,Chasing team won
+734011,Rajasthan Royals,201,Delhi Daredevils,139,Rajasthan Royals,62.0,,Batting first won
+734013,Chennai Super Kings,138,Royal Challengers Bangalore,142,Royal Challengers Bangalore,,5.0,Chasing team won
+734015,Sunrisers Hyderabad,142,Kolkata Knight Riders,146,Kolkata Knight Riders,,7.0,Chasing team won
+734017,Mumbai Indians,178,Rajasthan Royals,153,Mumbai Indians,25.0,,Batting first won
+734019,Delhi Daredevils,164,Kings XI Punjab,165,Kings XI Punjab,,4.0,Chasing team won
+734021,Royal Challengers Bangalore,160,Sunrisers Hyderabad,161,Sunrisers Hyderabad,,7.0,Chasing team won
+734023,Chennai Super Kings,154,Kolkata Knight Riders,156,Kolkata Knight Riders,,8.0,Chasing team won
+734025,Kings XI Punjab,156,Mumbai Indians,159,Mumbai Indians,,7.0,Chasing team won
+734027,Kolkata Knight Riders,195,Royal Challengers Bangalore,165,Kolkata Knight Riders,30.0,,Batting first won
+734029,Chennai Super Kings,185,Sunrisers Hyderabad,189,Sunrisers Hyderabad,,6.0,Chasing team won
+734031,Mumbai Indians,173,Delhi Daredevils,158,Mumbai Indians,15.0,,Batting first won
+734033,Kings XI Punjab,179,Rajasthan Royals,163,Kings XI Punjab,16.0,,Batting first won
+734035,Royal Challengers Bangalore,154,Chennai Super Kings,160,Chennai Super Kings,,8.0,Chasing team won
+734037,Sunrisers Hyderabad,160,Kolkata Knight Riders,161,Kolkata Knight Riders,,4.0,Chasing team won
+734039,Delhi Daredevils,115,Kings XI Punjab,119,Kings XI Punjab,,7.0,Chasing team won
+734041,Rajasthan Royals,189,Mumbai Indians,195,Mumbai Indians,,5.0,Chasing team won
+734043,Kolkata Knight Riders,163,Kings XI Punjab,135,Kolkata Knight Riders,28.0,,Batting first won
+734045,Mumbai Indians,173,Chennai Super Kings,176,Chennai Super Kings,,7.0,Chasing team won
+734047,Kings XI Punjab,226,Chennai Super Kings,202,Kings XI Punjab,24.0,,Batting first won
+734049,Kings XI Punjab,199,Kolkata Knight Riders,200,Kolkata Knight Riders,,3.0,Chasing team won
+829705,Mumbai Indians,168,Kolkata Knight Riders,170,Kolkata Knight Riders,,7.0,Chasing team won
+829707,Chennai Super Kings,150,Delhi Daredevils,149,Chennai Super Kings,1.0,,Batting first won
+829709,Rajasthan Royals,162,Kings XI Punjab,136,Rajasthan Royals,26.0,,Batting first won
+829711,Chennai Super Kings,209,Sunrisers Hyderabad,164,Chennai Super Kings,45.0,,Batting first won
+829713,Kolkata Knight Riders,177,Royal Challengers Bangalore,179,Royal Challengers Bangalore,,3.0,Chasing team won
+829715,Delhi Daredevils,184,Rajasthan Royals,186,Rajasthan Royals,,3.0,Chasing team won
+829717,Kings XI Punjab,177,Mumbai Indians,159,Kings XI Punjab,18.0,,Batting first won
+829719,Royal Challengers Bangalore,166,Sunrisers Hyderabad,172,Sunrisers Hyderabad,,8.0,Chasing team won
+829721,Mumbai Indians,164,Rajasthan Royals,165,Rajasthan Royals,,7.0,Chasing team won
+829723,Chennai Super Kings,165,Kolkata Knight Riders,169,Kolkata Knight Riders,,7.0,Chasing team won
+829725,Kings XI Punjab,165,Delhi Daredevils,169,Delhi Daredevils,,5.0,Chasing team won
+829727,Sunrisers Hyderabad,127,Rajasthan Royals,131,Rajasthan Royals,,6.0,Chasing team won
+829729,Mumbai Indians,183,Chennai Super Kings,189,Chennai Super Kings,,6.0,Chasing team won
+829731,Delhi Daredevils,167,Sunrisers Hyderabad,163,Delhi Daredevils,4.0,,Batting first won
+829733,Kings XI Punjab,155,Kolkata Knight Riders,159,Kolkata Knight Riders,,4.0,Chasing team won
+829735,Chennai Super Kings,156,Rajasthan Royals,157,Rajasthan Royals,,8.0,Chasing team won
+829737,Mumbai Indians,209,Royal Challengers Bangalore,191,Mumbai Indians,18.0,,Batting first won
+829739,Delhi Daredevils,146,Kolkata Knight Riders,147,Kolkata Knight Riders,,6.0,Chasing team won
+829741,Rajasthan Royals,191,Kings XI Punjab,191,,,,No recorded winner / other result
+829743,Sunrisers Hyderabad,176,Kolkata Knight Riders,101,Sunrisers Hyderabad,16.0,,Batting first won
+829745,Chennai Super Kings,181,Royal Challengers Bangalore,154,Chennai Super Kings,27.0,,Batting first won
+829747,Delhi Daredevils,190,Mumbai Indians,153,Delhi Daredevils,37.0,,Batting first won
+829749,Rajasthan Royals,130,Royal Challengers Bangalore,134,Royal Challengers Bangalore,,9.0,Chasing team won
+829751,Mumbai Indians,157,Sunrisers Hyderabad,137,Mumbai Indians,20.0,,Batting first won
+829753,Chennai Super Kings,192,Kings XI Punjab,95,Chennai Super Kings,97.0,,Batting first won
+829757,Delhi Daredevils,95,Royal Challengers Bangalore,99,Royal Challengers Bangalore,,10.0,Chasing team won
+829759,Sunrisers Hyderabad,150,Kings XI Punjab,130,Sunrisers Hyderabad,20.0,,Batting first won
+829761,Kolkata Knight Riders,171,Delhi Daredevils,158,Kolkata Knight Riders,13.0,,Batting first won
+829765,Chennai Super Kings,134,Kolkata Knight Riders,132,Chennai Super Kings,2.0,,Batting first won
+829767,Kings XI Punjab,118,Delhi Daredevils,119,Delhi Daredevils,,9.0,Chasing team won
+829769,Mumbai Indians,187,Rajasthan Royals,179,Mumbai Indians,8.0,,Batting first won
+829771,Kolkata Knight Riders,111,Royal Challengers Bangalore,115,Royal Challengers Bangalore,,7.0,Chasing team won
+829773,Sunrisers Hyderabad,192,Chennai Super Kings,170,Sunrisers Hyderabad,22.0,,Batting first won
+829775,Mumbai Indians,172,Kings XI Punjab,149,Mumbai Indians,23.0,,Batting first won
+829777,Rajasthan Royals,189,Delhi Daredevils,175,Rajasthan Royals,14.0,,Batting first won
+829779,Chennai Super Kings,148,Royal Challengers Bangalore,124,Chennai Super Kings,24.0,,Batting first won
+829781,Kolkata Knight Riders,167,Sunrisers Hyderabad,132,Kolkata Knight Riders,35.0,,Batting first won
+829783,Delhi Daredevils,152,Mumbai Indians,153,Mumbai Indians,,5.0,Chasing team won
+829785,Royal Challengers Bangalore,226,Kings XI Punjab,88,Royal Challengers Bangalore,138.0,,Batting first won
+829787,Sunrisers Hyderabad,201,Rajasthan Royals,194,Sunrisers Hyderabad,7.0,,Batting first won
+829789,Chennai Super Kings,158,Mumbai Indians,159,Mumbai Indians,,6.0,Chasing team won
+829791,Kings XI Punjab,183,Kolkata Knight Riders,184,Kolkata Knight Riders,,1.0,Chasing team won
+829793,Sunrisers Hyderabad,163,Delhi Daredevils,157,Sunrisers Hyderabad,6.0,,Batting first won
+829795,Royal Challengers Bangalore,235,Mumbai Indians,196,Royal Challengers Bangalore,39.0,,Batting first won
+829797,Chennai Super Kings,157,Rajasthan Royals,145,Chennai Super Kings,12.0,,Batting first won
+829799,Sunrisers Hyderabad,185,Kings XI Punjab,180,Sunrisers Hyderabad,5.0,,Batting first won
+829801,Chennai Super Kings,119,Delhi Daredevils,120,Delhi Daredevils,,6.0,Chasing team won
+829803,Kings XI Punjab,106,Royal Challengers Bangalore,84,Kings XI Punjab,22.0,,Batting first won
+829805,Mumbai Indians,171,Kolkata Knight Riders,166,Mumbai Indians,5.0,,Batting first won
+829807,Sunrisers Hyderabad,135,Royal Challengers Bangalore,83,Royal Challengers Bangalore,,6.0,Chasing team won
+829809,Kings XI Punjab,130,Chennai Super Kings,134,Chennai Super Kings,,7.0,Chasing team won
+829811,Rajasthan Royals,199,Kolkata Knight Riders,190,Rajasthan Royals,9.0,,Batting first won
+829813,Delhi Daredevils,187,Royal Challengers Bangalore,2,,,,No recorded winner / other result
+829815,Sunrisers Hyderabad,113,Mumbai Indians,114,Mumbai Indians,,9.0,Chasing team won
+829817,Mumbai Indians,187,Chennai Super Kings,162,Mumbai Indians,25.0,,Batting first won
+829819,Royal Challengers Bangalore,180,Rajasthan Royals,109,Royal Challengers Bangalore,71.0,,Batting first won
+829821,Royal Challengers Bangalore,139,Chennai Super Kings,140,Chennai Super Kings,,3.0,Chasing team won
+829823,Mumbai Indians,202,Chennai Super Kings,161,Mumbai Indians,41.0,,Batting first won
+980901,Mumbai Indians,121,Rising Pune Supergiants,126,Rising Pune Supergiants,,9.0,Chasing team won
+980903,Delhi Daredevils,98,Kolkata Knight Riders,99,Kolkata Knight Riders,,9.0,Chasing team won
+980905,Kings XI Punjab,161,Gujarat Lions,162,Gujarat Lions,,5.0,Chasing team won
+980907,Royal Challengers Bangalore,227,Sunrisers Hyderabad,182,Royal Challengers Bangalore,45.0,,Batting first won
+980909,Kolkata Knight Riders,187,Mumbai Indians,188,Mumbai Indians,,6.0,Chasing team won
+980911,Rising Pune Supergiants,163,Gujarat Lions,164,Gujarat Lions,,7.0,Chasing team won
+980913,Kings XI Punjab,111,Delhi Daredevils,113,Delhi Daredevils,,8.0,Chasing team won
+980915,Sunrisers Hyderabad,142,Kolkata Knight Riders,146,Kolkata Knight Riders,,8.0,Chasing team won
+980917,Mumbai Indians,143,Gujarat Lions,147,Gujarat Lions,,3.0,Chasing team won
+980919,Rising Pune Supergiants,152,Kings XI Punjab,153,Kings XI Punjab,,6.0,Chasing team won
+980921,Royal Challengers Bangalore,191,Delhi Daredevils,192,Delhi Daredevils,,7.0,Chasing team won
+980923,Mumbai Indians,142,Sunrisers Hyderabad,145,Sunrisers Hyderabad,,7.0,Chasing team won
+980925,Kings XI Punjab,138,Kolkata Knight Riders,141,Kolkata Knight Riders,,6.0,Chasing team won
+980927,Royal Challengers Bangalore,170,Mumbai Indians,171,Mumbai Indians,,6.0,Chasing team won
+980929,Gujarat Lions,135,Sunrisers Hyderabad,137,Sunrisers Hyderabad,,10.0,Chasing team won
+980931,Royal Challengers Bangalore,185,Rising Pune Supergiants,172,Royal Challengers Bangalore,13.0,,Batting first won
+980933,Delhi Daredevils,164,Mumbai Indians,154,Delhi Daredevils,10.0,,Batting first won
+980935,Kings XI Punjab,143,Sunrisers Hyderabad,146,Sunrisers Hyderabad,,5.0,Chasing team won
+980937,Royal Challengers Bangalore,180,Gujarat Lions,182,Gujarat Lions,,6.0,Chasing team won
+980939,Rising Pune Supergiants,160,Kolkata Knight Riders,162,Kolkata Knight Riders,,2.0,Chasing team won
+980941,Mumbai Indians,189,Kings XI Punjab,164,Mumbai Indians,25.0,,Batting first won
+980943,Sunrisers Hyderabad,118,Rising Pune Supergiants,94,Rising Pune Supergiants,34.0,,Chasing team won
+980945,Gujarat Lions,172,Delhi Daredevils,171,Gujarat Lions,1.0,,Batting first won
+980947,Kolkata Knight Riders,174,Mumbai Indians,178,Mumbai Indians,,6.0,Chasing team won
+980949,Rising Pune Supergiants,195,Gujarat Lions,196,Gujarat Lions,,3.0,Chasing team won
+980951,Delhi Daredevils,186,Kolkata Knight Riders,159,Delhi Daredevils,27.0,,Batting first won
+980953,Sunrisers Hyderabad,194,Royal Challengers Bangalore,179,Sunrisers Hyderabad,15.0,,Batting first won
+980955,Kings XI Punjab,154,Gujarat Lions,131,Kings XI Punjab,23.0,,Batting first won
+980957,Rising Pune Supergiants,159,Mumbai Indians,161,Mumbai Indians,,8.0,Chasing team won
+980959,Royal Challengers Bangalore,185,Kolkata Knight Riders,189,Kolkata Knight Riders,,5.0,Chasing team won
+980961,Gujarat Lions,149,Delhi Daredevils,150,Delhi Daredevils,,8.0,Chasing team won
+980963,Kolkata Knight Riders,164,Kings XI Punjab,157,Kolkata Knight Riders,7.0,,Batting first won
+980965,Delhi Daredevils,162,Rising Pune Supergiants,166,Rising Pune Supergiants,,7.0,Chasing team won
+980967,Gujarat Lions,126,Sunrisers Hyderabad,129,Sunrisers Hyderabad,,5.0,Chasing team won
+980969,Rising Pune Supergiants,191,Royal Challengers Bangalore,195,Royal Challengers Bangalore,,7.0,Chasing team won
+980971,Kings XI Punjab,181,Delhi Daredevils,172,Kings XI Punjab,9.0,,Batting first won
+980973,Sunrisers Hyderabad,177,Mumbai Indians,92,Sunrisers Hyderabad,85.0,,Batting first won
+980975,Kolkata Knight Riders,158,Gujarat Lions,164,Gujarat Lions,,5.0,Chasing team won
+980977,Royal Challengers Bangalore,175,Kings XI Punjab,174,Royal Challengers Bangalore,1.0,,Batting first won
+980979,Sunrisers Hyderabad,137,Rising Pune Supergiants,133,Sunrisers Hyderabad,4.0,,Batting first won
+980981,Royal Challengers Bangalore,151,Mumbai Indians,153,Mumbai Indians,,6.0,Chasing team won
+980983,Sunrisers Hyderabad,146,Delhi Daredevils,150,Delhi Daredevils,,7.0,Chasing team won
+980985,Mumbai Indians,124,Kings XI Punjab,127,Kings XI Punjab,,7.0,Chasing team won
+980987,Royal Challengers Bangalore,248,Gujarat Lions,104,Royal Challengers Bangalore,144.0,,Batting first won
+980989,Rising Pune Supergiants,103,Kolkata Knight Riders,66,Kolkata Knight Riders,,8.0,Chasing team won
+980991,Kings XI Punjab,179,Sunrisers Hyderabad,180,Sunrisers Hyderabad,,7.0,Chasing team won
+980993,Mumbai Indians,206,Delhi Daredevils,126,Mumbai Indians,80.0,,Batting first won
+980995,Kolkata Knight Riders,183,Royal Challengers Bangalore,186,Royal Challengers Bangalore,,9.0,Chasing team won
+980997,Delhi Daredevils,121,Rising Pune Supergiants,76,Rising Pune Supergiants,19.0,,Chasing team won
+980999,Royal Challengers Bangalore,211,Kings XI Punjab,120,Royal Challengers Bangalore,82.0,,Batting first won
+981001,Kolkata Knight Riders,124,Gujarat Lions,125,Gujarat Lions,,6.0,Chasing team won
+981003,Sunrisers Hyderabad,158,Delhi Daredevils,161,Delhi Daredevils,,6.0,Chasing team won
+981005,Kings XI Punjab,172,Rising Pune Supergiants,173,Rising Pune Supergiants,,4.0,Chasing team won
+981007,Mumbai Indians,172,Gujarat Lions,173,Gujarat Lions,,6.0,Chasing team won
+981009,Kolkata Knight Riders,171,Sunrisers Hyderabad,149,Kolkata Knight Riders,22.0,,Batting first won
+981011,Delhi Daredevils,138,Royal Challengers Bangalore,139,Royal Challengers Bangalore,,6.0,Chasing team won
+981013,Gujarat Lions,158,Royal Challengers Bangalore,159,Royal Challengers Bangalore,,4.0,Chasing team won
+981015,Sunrisers Hyderabad,162,Kolkata Knight Riders,140,Sunrisers Hyderabad,22.0,,Batting first won
+981017,Gujarat Lions,162,Sunrisers Hyderabad,163,Sunrisers Hyderabad,,4.0,Chasing team won
+981019,Sunrisers Hyderabad,208,Royal Challengers Bangalore,200,Sunrisers Hyderabad,8.0,,Batting first won
+1082591,Sunrisers Hyderabad,207,Royal Challengers Bangalore,172,Sunrisers Hyderabad,35.0,,Batting first won
+1082592,Mumbai Indians,184,Rising Pune Supergiant,187,Rising Pune Supergiant,,7.0,Chasing team won
+1082593,Gujarat Lions,183,Kolkata Knight Riders,184,Kolkata Knight Riders,,10.0,Chasing team won
+1082594,Rising Pune Supergiant,163,Kings XI Punjab,164,Kings XI Punjab,,6.0,Chasing team won
+1082595,Royal Challengers Bangalore,157,Delhi Daredevils,142,Royal Challengers Bangalore,15.0,,Batting first won
+1082596,Gujarat Lions,135,Sunrisers Hyderabad,140,Sunrisers Hyderabad,,9.0,Chasing team won
+1082597,Kolkata Knight Riders,178,Mumbai Indians,180,Mumbai Indians,,4.0,Chasing team won
+1082598,Royal Challengers Bangalore,148,Kings XI Punjab,150,Kings XI Punjab,,8.0,Chasing team won
+1082599,Delhi Daredevils,205,Rising Pune Supergiant,108,Delhi Daredevils,97.0,,Batting first won
+1082600,Sunrisers Hyderabad,158,Mumbai Indians,159,Mumbai Indians,,4.0,Chasing team won
+1082601,Kings XI Punjab,170,Kolkata Knight Riders,171,Kolkata Knight Riders,,8.0,Chasing team won
+1082602,Royal Challengers Bangalore,142,Mumbai Indians,145,Mumbai Indians,,4.0,Chasing team won
+1082603,Rising Pune Supergiant,171,Gujarat Lions,172,Gujarat Lions,,7.0,Chasing team won
+1082604,Kolkata Knight Riders,172,Sunrisers Hyderabad,155,Kolkata Knight Riders,17.0,,Batting first won
+1082605,Delhi Daredevils,188,Kings XI Punjab,137,Delhi Daredevils,51.0,,Batting first won
+1082606,Gujarat Lions,176,Mumbai Indians,177,Mumbai Indians,,6.0,Chasing team won
+1082607,Rising Pune Supergiant,161,Royal Challengers Bangalore,134,Rising Pune Supergiant,27.0,,Batting first won
+1082608,Delhi Daredevils,168,Kolkata Knight Riders,169,Kolkata Knight Riders,,4.0,Chasing team won
+1082609,Sunrisers Hyderabad,159,Kings XI Punjab,154,Sunrisers Hyderabad,5.0,,Batting first won
+1082610,Royal Challengers Bangalore,213,Gujarat Lions,192,Royal Challengers Bangalore,21.0,,Batting first won
+1082611,Sunrisers Hyderabad,191,Delhi Daredevils,176,Sunrisers Hyderabad,15.0,,Batting first won
+1082612,Kings XI Punjab,198,Mumbai Indians,199,Mumbai Indians,,8.0,Chasing team won
+1082613,Kolkata Knight Riders,187,Gujarat Lions,188,Gujarat Lions,,4.0,Chasing team won
+1082614,Mumbai Indians,142,Delhi Daredevils,128,Mumbai Indians,14.0,,Batting first won
+1082615,Sunrisers Hyderabad,176,Rising Pune Supergiant,179,Rising Pune Supergiant,,6.0,Chasing team won
+1082616,Kings XI Punjab,188,Gujarat Lions,162,Kings XI Punjab,26.0,,Batting first won
+1082617,Kolkata Knight Riders,131,Royal Challengers Bangalore,49,Kolkata Knight Riders,82.0,,Batting first won
+1082618,Rising Pune Supergiant,160,Mumbai Indians,157,Rising Pune Supergiant,3.0,,Batting first won
+1082620,Rising Pune Supergiant,182,Kolkata Knight Riders,184,Kolkata Knight Riders,,7.0,Chasing team won
+1082621,Royal Challengers Bangalore,134,Gujarat Lions,135,Gujarat Lions,,7.0,Chasing team won
+1082622,Delhi Daredevils,160,Kolkata Knight Riders,161,Kolkata Knight Riders,,7.0,Chasing team won
+1082623,Sunrisers Hyderabad,207,Kings XI Punjab,181,Sunrisers Hyderabad,26.0,,Batting first won
+1082624,Rising Pune Supergiant,157,Royal Challengers Bangalore,96,Rising Pune Supergiant,61.0,,Batting first won
+1082625,Gujarat Lions,153,Mumbai Indians,153,,,,No recorded winner / other result
+1082626,Delhi Daredevils,67,Kings XI Punjab,68,Kings XI Punjab,,10.0,Chasing team won
+1082627,Sunrisers Hyderabad,209,Kolkata Knight Riders,161,Sunrisers Hyderabad,48.0,,Batting first won
+1082628,Royal Challengers Bangalore,162,Mumbai Indians,165,Mumbai Indians,,5.0,Chasing team won
+1082629,Gujarat Lions,161,Rising Pune Supergiant,167,Rising Pune Supergiant,,5.0,Chasing team won
+1082630,Sunrisers Hyderabad,185,Delhi Daredevils,189,Delhi Daredevils,,6.0,Chasing team won
+1082631,Kolkata Knight Riders,155,Rising Pune Supergiant,158,Rising Pune Supergiant,,4.0,Chasing team won
+1082632,Gujarat Lions,208,Delhi Daredevils,214,Delhi Daredevils,,7.0,Chasing team won
+1082633,Kings XI Punjab,138,Royal Challengers Bangalore,119,Kings XI Punjab,19.0,,Batting first won
+1082634,Rising Pune Supergiant,148,Sunrisers Hyderabad,136,Rising Pune Supergiant,12.0,,Batting first won
+1082635,Mumbai Indians,212,Delhi Daredevils,66,Mumbai Indians,146.0,,Batting first won
+1082636,Royal Challengers Bangalore,158,Kolkata Knight Riders,159,Kolkata Knight Riders,,6.0,Chasing team won
+1082637,Kings XI Punjab,189,Gujarat Lions,192,Gujarat Lions,,6.0,Chasing team won
+1082638,Mumbai Indians,138,Sunrisers Hyderabad,140,Sunrisers Hyderabad,,7.0,Chasing team won
+1082639,Kings XI Punjab,167,Kolkata Knight Riders,153,Kings XI Punjab,14.0,,Batting first won
+1082640,Gujarat Lions,195,Delhi Daredevils,197,Delhi Daredevils,,2.0,Chasing team won
+1082641,Kings XI Punjab,230,Mumbai Indians,223,Kings XI Punjab,7.0,,Batting first won
+1082642,Delhi Daredevils,168,Rising Pune Supergiant,161,Delhi Daredevils,7.0,,Batting first won
+1082643,Gujarat Lions,154,Sunrisers Hyderabad,158,Sunrisers Hyderabad,,8.0,Chasing team won
+1082644,Mumbai Indians,173,Kolkata Knight Riders,164,Mumbai Indians,9.0,,Batting first won
+1082645,Kings XI Punjab,73,Rising Pune Supergiant,78,Rising Pune Supergiant,,9.0,Chasing team won
+1082646,Royal Challengers Bangalore,161,Delhi Daredevils,151,Royal Challengers Bangalore,10.0,,Batting first won
+1082647,Rising Pune Supergiant,162,Mumbai Indians,142,Rising Pune Supergiant,20.0,,Batting first won
+1082648,Sunrisers Hyderabad,128,Kolkata Knight Riders,48,Kolkata Knight Riders,,7.0,Chasing team won
+1082649,Kolkata Knight Riders,107,Mumbai Indians,111,Mumbai Indians,,6.0,Chasing team won
+1082650,Mumbai Indians,129,Rising Pune Supergiant,128,Mumbai Indians,1.0,,Batting first won
+1136561,Mumbai Indians,165,Chennai Super Kings,169,Chennai Super Kings,,1.0,Chasing team won
+1136562,Delhi Daredevils,166,Kings XI Punjab,167,Kings XI Punjab,,6.0,Chasing team won
+1136563,Royal Challengers Bangalore,176,Kolkata Knight Riders,177,Kolkata Knight Riders,,4.0,Chasing team won
+1136564,Rajasthan Royals,125,Sunrisers Hyderabad,127,Sunrisers Hyderabad,,9.0,Chasing team won
+1136565,Kolkata Knight Riders,202,Chennai Super Kings,205,Chennai Super Kings,,5.0,Chasing team won
+1136566,Rajasthan Royals,153,Delhi Daredevils,60,Rajasthan Royals,10.0,,Batting first won
+1136567,Mumbai Indians,147,Sunrisers Hyderabad,151,Sunrisers Hyderabad,,1.0,Chasing team won
+1136568,Kings XI Punjab,155,Royal Challengers Bangalore,159,Royal Challengers Bangalore,,4.0,Chasing team won
+1136569,Mumbai Indians,194,Delhi Daredevils,195,Delhi Daredevils,,7.0,Chasing team won
+1136570,Kolkata Knight Riders,138,Sunrisers Hyderabad,139,Sunrisers Hyderabad,,5.0,Chasing team won
+1136571,Rajasthan Royals,217,Royal Challengers Bangalore,198,Rajasthan Royals,19.0,,Batting first won
+1136572,Kings XI Punjab,197,Chennai Super Kings,193,Kings XI Punjab,4.0,,Batting first won
+1136573,Kolkata Knight Riders,200,Delhi Daredevils,129,Kolkata Knight Riders,71.0,,Batting first won
+1136574,Mumbai Indians,213,Royal Challengers Bangalore,167,Mumbai Indians,46.0,,Batting first won
+1136575,Rajasthan Royals,160,Kolkata Knight Riders,163,Kolkata Knight Riders,,7.0,Chasing team won
+1136576,Kings XI Punjab,193,Sunrisers Hyderabad,178,Kings XI Punjab,15.0,,Batting first won
+1136577,Chennai Super Kings,204,Rajasthan Royals,140,Chennai Super Kings,64.0,,Batting first won
+1136578,Kolkata Knight Riders,191,Kings XI Punjab,126,Kings XI Punjab,,9.0,Chasing team won
+1136579,Delhi Daredevils,174,Royal Challengers Bangalore,176,Royal Challengers Bangalore,,6.0,Chasing team won
+1136580,Chennai Super Kings,182,Sunrisers Hyderabad,178,Chennai Super Kings,4.0,,Batting first won
+1136581,Mumbai Indians,167,Rajasthan Royals,168,Rajasthan Royals,,3.0,Chasing team won
+1136582,Kings XI Punjab,143,Delhi Daredevils,139,Kings XI Punjab,4.0,,Batting first won
+1136583,Sunrisers Hyderabad,118,Mumbai Indians,87,Sunrisers Hyderabad,31.0,,Batting first won
+1136584,Royal Challengers Bangalore,205,Chennai Super Kings,207,Chennai Super Kings,,5.0,Chasing team won
+1136585,Sunrisers Hyderabad,132,Kings XI Punjab,119,Sunrisers Hyderabad,13.0,,Batting first won
+1136586,Delhi Daredevils,219,Kolkata Knight Riders,164,Delhi Daredevils,55.0,,Batting first won
+1136587,Chennai Super Kings,169,Mumbai Indians,170,Mumbai Indians,,8.0,Chasing team won
+1136588,Sunrisers Hyderabad,151,Rajasthan Royals,140,Sunrisers Hyderabad,11.0,,Batting first won
+1136589,Royal Challengers Bangalore,175,Kolkata Knight Riders,176,Kolkata Knight Riders,,6.0,Chasing team won
+1136590,Chennai Super Kings,211,Delhi Daredevils,198,Chennai Super Kings,13.0,,Batting first won
+1136591,Royal Challengers Bangalore,167,Mumbai Indians,153,Royal Challengers Bangalore,14.0,,Batting first won
+1136592,Delhi Daredevils,196,Rajasthan Royals,146,Delhi Daredevils,4.0,,Batting first won
+1136593,Chennai Super Kings,177,Kolkata Knight Riders,180,Kolkata Knight Riders,,6.0,Chasing team won
+1136594,Kings XI Punjab,174,Mumbai Indians,176,Mumbai Indians,,6.0,Chasing team won
+1136595,Royal Challengers Bangalore,127,Chennai Super Kings,128,Chennai Super Kings,,6.0,Chasing team won
+1136596,Delhi Daredevils,163,Sunrisers Hyderabad,164,Sunrisers Hyderabad,,7.0,Chasing team won
+1136597,Mumbai Indians,181,Kolkata Knight Riders,168,Mumbai Indians,13.0,,Batting first won
+1136598,Rajasthan Royals,152,Kings XI Punjab,155,Kings XI Punjab,,6.0,Chasing team won
+1136599,Sunrisers Hyderabad,146,Royal Challengers Bangalore,141,Sunrisers Hyderabad,5.0,,Batting first won
+1136600,Rajasthan Royals,158,Kings XI Punjab,143,Rajasthan Royals,15.0,,Batting first won
+1136601,Mumbai Indians,210,Kolkata Knight Riders,108,Mumbai Indians,102.0,,Batting first won
+1136602,Delhi Daredevils,187,Sunrisers Hyderabad,191,Sunrisers Hyderabad,,9.0,Chasing team won
+1136603,Chennai Super Kings,176,Rajasthan Royals,177,Rajasthan Royals,,4.0,Chasing team won
+1136604,Kolkata Knight Riders,245,Kings XI Punjab,214,Kolkata Knight Riders,31.0,,Batting first won
+1136605,Delhi Daredevils,181,Royal Challengers Bangalore,187,Royal Challengers Bangalore,,5.0,Chasing team won
+1136606,Sunrisers Hyderabad,179,Chennai Super Kings,180,Chennai Super Kings,,8.0,Chasing team won
+1136607,Mumbai Indians,168,Rajasthan Royals,171,Rajasthan Royals,,7.0,Chasing team won
+1136608,Kings XI Punjab,88,Royal Challengers Bangalore,92,Royal Challengers Bangalore,,10.0,Chasing team won
+1136609,Rajasthan Royals,142,Kolkata Knight Riders,145,Kolkata Knight Riders,,6.0,Chasing team won
+1136610,Mumbai Indians,186,Kings XI Punjab,183,Mumbai Indians,3.0,,Batting first won
+1136611,Royal Challengers Bangalore,218,Sunrisers Hyderabad,204,Royal Challengers Bangalore,14.0,,Batting first won
+1136612,Delhi Daredevils,162,Chennai Super Kings,128,Delhi Daredevils,34.0,,Batting first won
+1136613,Rajasthan Royals,164,Royal Challengers Bangalore,134,Rajasthan Royals,30.0,,Batting first won
+1136614,Sunrisers Hyderabad,172,Kolkata Knight Riders,173,Kolkata Knight Riders,,5.0,Chasing team won
+1136615,Delhi Daredevils,174,Mumbai Indians,163,Delhi Daredevils,11.0,,Batting first won
+1136616,Kings XI Punjab,153,Chennai Super Kings,159,Chennai Super Kings,,5.0,Chasing team won
+1136617,Sunrisers Hyderabad,139,Chennai Super Kings,140,Chennai Super Kings,,2.0,Chasing team won
+1136618,Kolkata Knight Riders,169,Rajasthan Royals,144,Kolkata Knight Riders,25.0,,Batting first won
+1136619,Sunrisers Hyderabad,174,Kolkata Knight Riders,160,Sunrisers Hyderabad,14.0,,Batting first won
+1136620,Sunrisers Hyderabad,178,Chennai Super Kings,181,Chennai Super Kings,,8.0,Chasing team won
+1175356,Royal Challengers Bangalore,70,Chennai Super Kings,71,Chennai Super Kings,,7.0,Chasing team won
+1175357,Sunrisers Hyderabad,181,Kolkata Knight Riders,183,Kolkata Knight Riders,,6.0,Chasing team won
+1175358,Delhi Capitals,213,Mumbai Indians,176,Delhi Capitals,37.0,,Batting first won
+1175359,Kings XI Punjab,184,Rajasthan Royals,170,Kings XI Punjab,14.0,,Batting first won
+1175360,Delhi Capitals,147,Chennai Super Kings,150,Chennai Super Kings,,6.0,Chasing team won
+1175361,Kolkata Knight Riders,218,Kings XI Punjab,190,Kolkata Knight Riders,28.0,,Batting first won
+1175362,Mumbai Indians,187,Royal Challengers Bangalore,181,Mumbai Indians,6.0,,Batting first won
+1175363,Rajasthan Royals,198,Sunrisers Hyderabad,201,Sunrisers Hyderabad,,5.0,Chasing team won
+1175364,Mumbai Indians,176,Kings XI Punjab,177,Kings XI Punjab,,8.0,Chasing team won
+1175365,Kolkata Knight Riders,185,Delhi Capitals,185,,,,No recorded winner / other result
+1175366,Sunrisers Hyderabad,231,Royal Challengers Bangalore,113,Sunrisers Hyderabad,118.0,,Batting first won
+1175367,Chennai Super Kings,175,Rajasthan Royals,167,Chennai Super Kings,8.0,,Batting first won
+1175368,Kings XI Punjab,166,Delhi Capitals,152,Kings XI Punjab,14.0,,Batting first won
+1175369,Royal Challengers Bangalore,158,Rajasthan Royals,164,Rajasthan Royals,,7.0,Chasing team won
+1175370,Mumbai Indians,170,Chennai Super Kings,133,Mumbai Indians,37.0,,Batting first won
+1175371,Delhi Capitals,129,Sunrisers Hyderabad,131,Sunrisers Hyderabad,,5.0,Chasing team won
+1175372,Royal Challengers Bangalore,205,Kolkata Knight Riders,206,Kolkata Knight Riders,,5.0,Chasing team won
+1178393,Chennai Super Kings,160,Kings XI Punjab,138,Chennai Super Kings,22.0,,Batting first won
+1178394,Mumbai Indians,136,Sunrisers Hyderabad,96,Mumbai Indians,40.0,,Batting first won
+1178395,Royal Challengers Bangalore,149,Delhi Capitals,152,Delhi Capitals,,4.0,Chasing team won
+1178396,Rajasthan Royals,139,Kolkata Knight Riders,140,Kolkata Knight Riders,,8.0,Chasing team won
+1178397,Sunrisers Hyderabad,150,Kings XI Punjab,151,Kings XI Punjab,,6.0,Chasing team won
+1178398,Kolkata Knight Riders,108,Chennai Super Kings,111,Chennai Super Kings,,7.0,Chasing team won
+1178399,Kings XI Punjab,197,Mumbai Indians,198,Mumbai Indians,,3.0,Chasing team won
+1178400,Rajasthan Royals,151,Chennai Super Kings,155,Chennai Super Kings,,4.0,Chasing team won
+1178401,Kolkata Knight Riders,178,Delhi Capitals,180,Delhi Capitals,,7.0,Chasing team won
+1178402,Mumbai Indians,187,Rajasthan Royals,188,Rajasthan Royals,,4.0,Chasing team won
+1178403,Kings XI Punjab,173,Royal Challengers Bangalore,174,Royal Challengers Bangalore,,8.0,Chasing team won
+1178404,Kolkata Knight Riders,161,Chennai Super Kings,162,Chennai Super Kings,,5.0,Chasing team won
+1178405,Delhi Capitals,155,Sunrisers Hyderabad,116,Delhi Capitals,39.0,,Batting first won
+1178406,Royal Challengers Bangalore,171,Mumbai Indians,172,Mumbai Indians,,5.0,Chasing team won
+1178407,Kings XI Punjab,182,Rajasthan Royals,170,Kings XI Punjab,12.0,,Batting first won
+1178408,Chennai Super Kings,132,Sunrisers Hyderabad,137,Sunrisers Hyderabad,,6.0,Chasing team won
+1178409,Mumbai Indians,168,Delhi Capitals,128,Mumbai Indians,40.0,,Batting first won
+1178410,Royal Challengers Bangalore,213,Kolkata Knight Riders,203,Royal Challengers Bangalore,10.0,,Batting first won
+1178411,Mumbai Indians,161,Rajasthan Royals,162,Rajasthan Royals,,5.0,Chasing team won
+1178412,Kings XI Punjab,163,Delhi Capitals,166,Delhi Capitals,,5.0,Chasing team won
+1178413,Kolkata Knight Riders,159,Sunrisers Hyderabad,161,Sunrisers Hyderabad,,9.0,Chasing team won
+1178414,Royal Challengers Bangalore,161,Chennai Super Kings,160,Royal Challengers Bangalore,1.0,,Batting first won
+1178415,Rajasthan Royals,191,Delhi Capitals,193,Delhi Capitals,,6.0,Chasing team won
+1178416,Sunrisers Hyderabad,175,Chennai Super Kings,176,Chennai Super Kings,,6.0,Chasing team won
+1178417,Royal Challengers Bangalore,202,Kings XI Punjab,185,Royal Challengers Bangalore,17.0,,Batting first won
+1178418,Kolkata Knight Riders,175,Rajasthan Royals,177,Rajasthan Royals,,3.0,Chasing team won
+1178419,Mumbai Indians,155,Chennai Super Kings,109,Mumbai Indians,46.0,,Batting first won
+1178420,Sunrisers Hyderabad,160,Rajasthan Royals,161,Rajasthan Royals,,7.0,Chasing team won
+1178421,Delhi Capitals,187,Royal Challengers Bangalore,171,Delhi Capitals,16.0,,Batting first won
+1178422,Kolkata Knight Riders,232,Mumbai Indians,198,Kolkata Knight Riders,34.0,,Batting first won
+1178423,Sunrisers Hyderabad,212,Kings XI Punjab,167,Sunrisers Hyderabad,45.0,,Batting first won
+1178424,Royal Challengers Bangalore,62,Rajasthan Royals,41,,,,No recorded winner / other result
+1178425,Chennai Super Kings,179,Delhi Capitals,99,Chennai Super Kings,80.0,,Batting first won
+1178426,Mumbai Indians,162,Sunrisers Hyderabad,162,,,,No recorded winner / other result
+1178427,Kings XI Punjab,183,Kolkata Knight Riders,185,Kolkata Knight Riders,,7.0,Chasing team won
+1178428,Rajasthan Royals,115,Delhi Capitals,121,Delhi Capitals,,5.0,Chasing team won
+1178429,Sunrisers Hyderabad,175,Royal Challengers Bangalore,178,Royal Challengers Bangalore,,4.0,Chasing team won
+1178430,Chennai Super Kings,170,Kings XI Punjab,173,Kings XI Punjab,,6.0,Chasing team won
+1178431,Kolkata Knight Riders,133,Mumbai Indians,134,Mumbai Indians,,9.0,Chasing team won
+1181764,Chennai Super Kings,131,Mumbai Indians,132,Mumbai Indians,,6.0,Chasing team won
+1181766,Sunrisers Hyderabad,162,Delhi Capitals,165,Delhi Capitals,,2.0,Chasing team won
+1181767,Delhi Capitals,147,Chennai Super Kings,151,Chennai Super Kings,,6.0,Chasing team won
+1181768,Mumbai Indians,149,Chennai Super Kings,148,Mumbai Indians,1.0,,Batting first won
+1216492,Mumbai Indians,162,Chennai Super Kings,166,Chennai Super Kings,,5.0,Chasing team won
+1216493,Delhi Capitals,157,Kings XI Punjab,157,,,,No recorded winner / other result
+1216494,Kolkata Knight Riders,84,Royal Challengers Bangalore,85,Royal Challengers Bangalore,,8.0,Chasing team won
+1216495,Mumbai Indians,149,Sunrisers Hyderabad,151,Sunrisers Hyderabad,,10.0,Chasing team won
+1216496,Rajasthan Royals,216,Chennai Super Kings,200,Rajasthan Royals,16.0,,Batting first won
+1216497,Kolkata Knight Riders,194,Delhi Capitals,135,Kolkata Knight Riders,59.0,,Batting first won
+1216498,Kings XI Punjab,126,Sunrisers Hyderabad,114,Kings XI Punjab,12.0,,Batting first won
+1216499,Royal Challengers Bangalore,164,Mumbai Indians,166,Mumbai Indians,,5.0,Chasing team won
+1216500,Delhi Capitals,184,Rajasthan Royals,138,Delhi Capitals,46.0,,Batting first won
+1216501,Kolkata Knight Riders,167,Chennai Super Kings,157,Kolkata Knight Riders,10.0,,Batting first won
+1216502,Royal Challengers Bangalore,120,Sunrisers Hyderabad,121,Sunrisers Hyderabad,,5.0,Chasing team won
+1216503,Mumbai Indians,191,Kings XI Punjab,143,Mumbai Indians,48.0,,Batting first won
+1216504,Kolkata Knight Riders,174,Rajasthan Royals,137,Kolkata Knight Riders,37.0,,Batting first won
+1216505,Royal Challengers Bangalore,152,Delhi Capitals,154,Delhi Capitals,,6.0,Chasing team won
+1216506,Kings XI Punjab,153,Chennai Super Kings,154,Chennai Super Kings,,9.0,Chasing team won
+1216507,Sunrisers Hyderabad,158,Rajasthan Royals,163,Rajasthan Royals,,5.0,Chasing team won
+1216508,Mumbai Indians,195,Kolkata Knight Riders,146,Mumbai Indians,49.0,,Batting first won
+1216509,Chennai Super Kings,179,Delhi Capitals,185,Delhi Capitals,,5.0,Chasing team won
+1216510,Kings XI Punjab,206,Royal Challengers Bangalore,109,Kings XI Punjab,97.0,,Batting first won
+1216511,Mumbai Indians,193,Rajasthan Royals,136,Mumbai Indians,57.0,,Batting first won
+1216512,Kolkata Knight Riders,163,Sunrisers Hyderabad,163,,,,No recorded winner / other result
+1216513,Kings XI Punjab,178,Chennai Super Kings,181,Chennai Super Kings,,10.0,Chasing team won
+1216514,Rajasthan Royals,154,Royal Challengers Bangalore,158,Royal Challengers Bangalore,,8.0,Chasing team won
+1216515,Delhi Capitals,228,Kolkata Knight Riders,210,Delhi Capitals,18.0,,Batting first won
+1216516,Sunrisers Hyderabad,164,Chennai Super Kings,157,Sunrisers Hyderabad,7.0,,Batting first won
+1216517,Mumbai Indians,176,Kings XI Punjab,176,,,,No recorded winner / other result
+1216518,Rajasthan Royals,154,Sunrisers Hyderabad,156,Sunrisers Hyderabad,,8.0,Chasing team won
+1216519,Delhi Capitals,196,Royal Challengers Bangalore,137,Delhi Capitals,59.0,,Batting first won
+1216520,Kolkata Knight Riders,149,Kings XI Punjab,150,Kings XI Punjab,,8.0,Chasing team won
+1216521,Chennai Super Kings,114,Mumbai Indians,116,Mumbai Indians,,10.0,Chasing team won
+1216522,Rajasthan Royals,177,Royal Challengers Bangalore,179,Royal Challengers Bangalore,,7.0,Chasing team won
+1216523,Kolkata Knight Riders,164,Kings XI Punjab,162,Kolkata Knight Riders,2.0,,Batting first won
+1216524,Sunrisers Hyderabad,219,Delhi Capitals,131,Sunrisers Hyderabad,88.0,,Batting first won
+1216525,Royal Challengers Bangalore,169,Chennai Super Kings,132,Royal Challengers Bangalore,37.0,,Batting first won
+1216526,Kolkata Knight Riders,148,Mumbai Indians,149,Mumbai Indians,,8.0,Chasing team won
+1216527,Kings XI Punjab,223,Rajasthan Royals,226,Rajasthan Royals,,4.0,Chasing team won
+1216528,Chennai Super Kings,167,Sunrisers Hyderabad,147,Chennai Super Kings,20.0,,Batting first won
+1216529,Delhi Capitals,162,Mumbai Indians,166,Mumbai Indians,,5.0,Chasing team won
+1216530,Kolkata Knight Riders,191,Rajasthan Royals,131,Kolkata Knight Riders,60.0,,Batting first won
+1216531,Royal Challengers Bangalore,171,Kings XI Punjab,177,Kings XI Punjab,,8.0,Chasing team won
+1216532,Sunrisers Hyderabad,162,Delhi Capitals,147,Sunrisers Hyderabad,15.0,,Batting first won
+1216533,Chennai Super Kings,125,Rajasthan Royals,126,Rajasthan Royals,,7.0,Chasing team won
+1216534,Royal Challengers Bangalore,163,Sunrisers Hyderabad,153,Royal Challengers Bangalore,10.0,,Batting first won
+1216535,Delhi Capitals,110,Mumbai Indians,111,Mumbai Indians,,9.0,Chasing team won
+1216536,Kolkata Knight Riders,172,Chennai Super Kings,178,Chennai Super Kings,,6.0,Chasing team won
+1216537,Kings XI Punjab,185,Rajasthan Royals,186,Rajasthan Royals,,7.0,Chasing team won
+1216538,Mumbai Indians,208,Sunrisers Hyderabad,174,Mumbai Indians,34.0,,Batting first won
+1216539,Delhi Capitals,175,Chennai Super Kings,131,Delhi Capitals,44.0,,Batting first won
+1216540,Royal Challengers Bangalore,194,Kolkata Knight Riders,112,Royal Challengers Bangalore,82.0,,Batting first won
+1216541,Mumbai Indians,195,Rajasthan Royals,196,Rajasthan Royals,,8.0,Chasing team won
+1216542,Sunrisers Hyderabad,201,Kings XI Punjab,132,Sunrisers Hyderabad,69.0,,Batting first won
+1216543,Delhi Capitals,161,Rajasthan Royals,148,Delhi Capitals,13.0,,Batting first won
+1216544,Royal Challengers Bangalore,145,Chennai Super Kings,150,Chennai Super Kings,,8.0,Chasing team won
+1216545,Sunrisers Hyderabad,142,Kolkata Knight Riders,145,Kolkata Knight Riders,,7.0,Chasing team won
+1216546,Delhi Capitals,164,Kings XI Punjab,167,Kings XI Punjab,,5.0,Chasing team won
+1216547,Royal Challengers Bangalore,201,Mumbai Indians,201,,,,No recorded winner / other result
+1237177,Mumbai Indians,200,Delhi Capitals,143,Mumbai Indians,57.0,,Batting first won
+1237178,Royal Challengers Bangalore,131,Sunrisers Hyderabad,132,Sunrisers Hyderabad,,6.0,Chasing team won
+1237180,Delhi Capitals,189,Sunrisers Hyderabad,172,Delhi Capitals,17.0,,Batting first won
+1237181,Delhi Capitals,156,Mumbai Indians,157,Mumbai Indians,,5.0,Chasing team won
+1254058,Mumbai Indians,159,Royal Challengers Bangalore,160,Royal Challengers Bangalore,,2.0,Chasing team won
+1254059,Chennai Super Kings,188,Delhi Capitals,190,Delhi Capitals,,7.0,Chasing team won
+1254060,Kolkata Knight Riders,187,Sunrisers Hyderabad,177,Kolkata Knight Riders,10.0,,Batting first won
+1254061,Punjab Kings,221,Rajasthan Royals,217,Punjab Kings,4.0,,Batting first won
+1254062,Mumbai Indians,152,Kolkata Knight Riders,142,Mumbai Indians,10.0,,Batting first won
+1254063,Royal Challengers Bangalore,149,Sunrisers Hyderabad,143,Royal Challengers Bangalore,6.0,,Batting first won
+1254064,Delhi Capitals,147,Rajasthan Royals,150,Rajasthan Royals,,3.0,Chasing team won
+1254065,Punjab Kings,106,Chennai Super Kings,107,Chennai Super Kings,,6.0,Chasing team won
+1254066,Mumbai Indians,150,Sunrisers Hyderabad,137,Mumbai Indians,13.0,,Batting first won
+1254067,Royal Challengers Bangalore,204,Kolkata Knight Riders,166,Royal Challengers Bangalore,38.0,,Batting first won
+1254068,Punjab Kings,195,Delhi Capitals,198,Delhi Capitals,,6.0,Chasing team won
+1254069,Chennai Super Kings,188,Rajasthan Royals,143,Chennai Super Kings,45.0,,Batting first won
+1254070,Mumbai Indians,137,Delhi Capitals,138,Delhi Capitals,,6.0,Chasing team won
+1254071,Punjab Kings,120,Sunrisers Hyderabad,121,Sunrisers Hyderabad,,9.0,Chasing team won
+1254072,Chennai Super Kings,220,Kolkata Knight Riders,202,Chennai Super Kings,18.0,,Batting first won
+1254073,Rajasthan Royals,177,Royal Challengers Bangalore,181,Royal Challengers Bangalore,,10.0,Chasing team won
+1254074,Mumbai Indians,131,Punjab Kings,132,Punjab Kings,,9.0,Chasing team won
+1254075,Kolkata Knight Riders,133,Rajasthan Royals,134,Rajasthan Royals,,6.0,Chasing team won
+1254076,Chennai Super Kings,191,Royal Challengers Bangalore,122,Chennai Super Kings,69.0,,Batting first won
+1254077,Delhi Capitals,159,Sunrisers Hyderabad,159,,,,No recorded winner / other result
+1254078,Punjab Kings,123,Kolkata Knight Riders,126,Kolkata Knight Riders,,5.0,Chasing team won
+1254079,Royal Challengers Bangalore,171,Delhi Capitals,170,Royal Challengers Bangalore,1.0,,Batting first won
+1254080,Sunrisers Hyderabad,171,Chennai Super Kings,173,Chennai Super Kings,,7.0,Chasing team won
+1254081,Rajasthan Royals,171,Mumbai Indians,172,Mumbai Indians,,7.0,Chasing team won
+1254082,Kolkata Knight Riders,154,Delhi Capitals,156,Delhi Capitals,,7.0,Chasing team won
+1254083,Punjab Kings,179,Royal Challengers Bangalore,145,Punjab Kings,34.0,,Batting first won
+1254084,Chennai Super Kings,218,Mumbai Indians,219,Mumbai Indians,,4.0,Chasing team won
+1254085,Rajasthan Royals,220,Sunrisers Hyderabad,165,Rajasthan Royals,55.0,,Batting first won
+1254086,Punjab Kings,166,Delhi Capitals,167,Delhi Capitals,,7.0,Chasing team won
+1254087,Royal Challengers Bangalore,92,Kolkata Knight Riders,94,Kolkata Knight Riders,,9.0,Chasing team won
+1254088,Mumbai Indians,235,Sunrisers Hyderabad,193,Mumbai Indians,42.0,,Batting first won
+1254089,Chennai Super Kings,189,Rajasthan Royals,190,Rajasthan Royals,,7.0,Chasing team won
+1254090,Royal Challengers Bangalore,164,Punjab Kings,158,Royal Challengers Bangalore,6.0,,Batting first won
+1254091,Sunrisers Hyderabad,134,Chennai Super Kings,139,Chennai Super Kings,,6.0,Chasing team won
+1254092,Delhi Capitals,127,Kolkata Knight Riders,130,Kolkata Knight Riders,,3.0,Chasing team won
+1254093,Rajasthan Royals,90,Mumbai Indians,94,Mumbai Indians,,8.0,Chasing team won
+1254094,Chennai Super Kings,134,Punjab Kings,139,Punjab Kings,,6.0,Chasing team won
+1254095,Sunrisers Hyderabad,141,Royal Challengers Bangalore,137,Sunrisers Hyderabad,4.0,,Batting first won
+1254096,Mumbai Indians,155,Kolkata Knight Riders,159,Kolkata Knight Riders,,7.0,Chasing team won
+1254097,Delhi Capitals,154,Rajasthan Royals,121,Delhi Capitals,33.0,,Batting first won
+1254098,Kolkata Knight Riders,171,Chennai Super Kings,172,Chennai Super Kings,,2.0,Chasing team won
+1254099,Punjab Kings,135,Mumbai Indians,137,Mumbai Indians,,6.0,Chasing team won
+1254100,Rajasthan Royals,164,Sunrisers Hyderabad,167,Sunrisers Hyderabad,,7.0,Chasing team won
+1254101,Delhi Capitals,164,Royal Challengers Bangalore,166,Royal Challengers Bangalore,,7.0,Chasing team won
+1254102,Kolkata Knight Riders,165,Punjab Kings,168,Punjab Kings,,5.0,Chasing team won
+1254103,Rajasthan Royals,149,Royal Challengers Bangalore,153,Royal Challengers Bangalore,,7.0,Chasing team won
+1254104,Chennai Super Kings,156,Mumbai Indians,136,Chennai Super Kings,20.0,,Batting first won
+1254105,Sunrisers Hyderabad,134,Delhi Capitals,139,Delhi Capitals,,8.0,Chasing team won
+1254106,Kolkata Knight Riders,171,Rajasthan Royals,85,Kolkata Knight Riders,86.0,,Batting first won
+1254107,Punjab Kings,125,Sunrisers Hyderabad,120,Punjab Kings,5.0,,Batting first won
+1254108,Royal Challengers Bangalore,165,Mumbai Indians,111,Royal Challengers Bangalore,54.0,,Batting first won
+1254109,Sunrisers Hyderabad,115,Kolkata Knight Riders,119,Kolkata Knight Riders,,6.0,Chasing team won
+1254110,Chennai Super Kings,136,Delhi Capitals,139,Delhi Capitals,,3.0,Chasing team won
+1254111,Rajasthan Royals,185,Punjab Kings,183,Rajasthan Royals,2.0,,Batting first won
+1254112,Mumbai Indians,129,Delhi Capitals,132,Delhi Capitals,,4.0,Chasing team won
+1254113,Royal Challengers Bangalore,156,Chennai Super Kings,157,Chennai Super Kings,,6.0,Chasing team won
+1254114,Delhi Capitals,172,Chennai Super Kings,173,Chennai Super Kings,,4.0,Chasing team won
+1254115,Royal Challengers Bangalore,138,Kolkata Knight Riders,139,Kolkata Knight Riders,,4.0,Chasing team won
+1254116,Delhi Capitals,135,Kolkata Knight Riders,136,Kolkata Knight Riders,,3.0,Chasing team won
+1254117,Chennai Super Kings,192,Kolkata Knight Riders,165,Chennai Super Kings,27.0,,Batting first won
+1304047,Chennai Super Kings,131,Kolkata Knight Riders,133,Kolkata Knight Riders,,6.0,Chasing team won
+1304048,Mumbai Indians,177,Delhi Capitals,179,Delhi Capitals,,4.0,Chasing team won
+1304049,Royal Challengers Bangalore,205,Punjab Kings,208,Punjab Kings,,5.0,Chasing team won
+1304050,Lucknow Super Giants,158,Gujarat Titans,161,Gujarat Titans,,5.0,Chasing team won
+1304051,Rajasthan Royals,210,Sunrisers Hyderabad,149,Rajasthan Royals,61.0,,Batting first won
+1304052,Kolkata Knight Riders,128,Royal Challengers Bangalore,132,Royal Challengers Bangalore,,3.0,Chasing team won
+1304053,Chennai Super Kings,210,Lucknow Super Giants,211,Lucknow Super Giants,,6.0,Chasing team won
+1304054,Punjab Kings,137,Kolkata Knight Riders,141,Kolkata Knight Riders,,6.0,Chasing team won
+1304055,Rajasthan Royals,193,Mumbai Indians,170,Rajasthan Royals,23.0,,Batting first won
+1304056,Gujarat Titans,171,Delhi Capitals,157,Gujarat Titans,14.0,,Batting first won
+1304057,Punjab Kings,180,Chennai Super Kings,126,Punjab Kings,54.0,,Batting first won
+1304058,Lucknow Super Giants,169,Sunrisers Hyderabad,157,Lucknow Super Giants,12.0,,Batting first won
+1304059,Rajasthan Royals,169,Royal Challengers Bangalore,173,Royal Challengers Bangalore,,4.0,Chasing team won
+1304060,Mumbai Indians,161,Kolkata Knight Riders,162,Kolkata Knight Riders,,5.0,Chasing team won
+1304061,Delhi Capitals,149,Lucknow Super Giants,155,Lucknow Super Giants,,6.0,Chasing team won
+1304062,Punjab Kings,189,Gujarat Titans,190,Gujarat Titans,,6.0,Chasing team won
+1304063,Chennai Super Kings,154,Sunrisers Hyderabad,155,Sunrisers Hyderabad,,8.0,Chasing team won
+1304064,Mumbai Indians,151,Royal Challengers Bangalore,152,Royal Challengers Bangalore,,7.0,Chasing team won
+1304065,Delhi Capitals,215,Kolkata Knight Riders,171,Delhi Capitals,44.0,,Batting first won
+1304066,Rajasthan Royals,165,Lucknow Super Giants,162,Rajasthan Royals,3.0,,Batting first won
+1304067,Gujarat Titans,162,Sunrisers Hyderabad,168,Sunrisers Hyderabad,,8.0,Chasing team won
+1304068,Chennai Super Kings,216,Royal Challengers Bangalore,193,Chennai Super Kings,23.0,,Batting first won
+1304069,Punjab Kings,198,Mumbai Indians,186,Punjab Kings,12.0,,Batting first won
+1304070,Gujarat Titans,192,Rajasthan Royals,155,Gujarat Titans,37.0,,Batting first won
+1304071,Kolkata Knight Riders,175,Sunrisers Hyderabad,176,Sunrisers Hyderabad,,7.0,Chasing team won
+1304072,Lucknow Super Giants,199,Mumbai Indians,181,Lucknow Super Giants,18.0,,Batting first won
+1304073,Royal Challengers Bangalore,189,Delhi Capitals,173,Royal Challengers Bangalore,16.0,,Batting first won
+1304074,Punjab Kings,151,Sunrisers Hyderabad,152,Sunrisers Hyderabad,,7.0,Chasing team won
+1304075,Chennai Super Kings,169,Gujarat Titans,170,Gujarat Titans,,3.0,Chasing team won
+1304076,Rajasthan Royals,217,Kolkata Knight Riders,210,Rajasthan Royals,7.0,,Batting first won
+1304077,Royal Challengers Bangalore,181,Lucknow Super Giants,163,Royal Challengers Bangalore,18.0,,Batting first won
+1304078,Punjab Kings,115,Delhi Capitals,119,Delhi Capitals,,9.0,Chasing team won
+1304079,Mumbai Indians,155,Chennai Super Kings,156,Chennai Super Kings,,3.0,Chasing team won
+1304080,Rajasthan Royals,222,Delhi Capitals,207,Rajasthan Royals,15.0,,Batting first won
+1304081,Gujarat Titans,156,Kolkata Knight Riders,148,Gujarat Titans,8.0,,Batting first won
+1304082,Royal Challengers Bangalore,68,Sunrisers Hyderabad,72,Sunrisers Hyderabad,,9.0,Chasing team won
+1304083,Lucknow Super Giants,168,Mumbai Indians,132,Lucknow Super Giants,36.0,,Batting first won
+1304084,Punjab Kings,187,Chennai Super Kings,176,Punjab Kings,11.0,,Batting first won
+1304085,Rajasthan Royals,144,Royal Challengers Bangalore,115,Rajasthan Royals,29.0,,Batting first won
+1304086,Sunrisers Hyderabad,195,Gujarat Titans,199,Gujarat Titans,,5.0,Chasing team won
+1304087,Kolkata Knight Riders,146,Delhi Capitals,150,Delhi Capitals,,4.0,Chasing team won
+1304088,Lucknow Super Giants,153,Punjab Kings,133,Lucknow Super Giants,20.0,,Batting first won
+1304089,Royal Challengers Bangalore,170,Gujarat Titans,174,Gujarat Titans,,6.0,Chasing team won
+1304090,Rajasthan Royals,158,Mumbai Indians,161,Mumbai Indians,,5.0,Chasing team won
+1304091,Lucknow Super Giants,195,Delhi Capitals,189,Lucknow Super Giants,6.0,,Batting first won
+1304092,Chennai Super Kings,202,Sunrisers Hyderabad,189,Chennai Super Kings,13.0,,Batting first won
+1304093,Rajasthan Royals,152,Kolkata Knight Riders,158,Kolkata Knight Riders,,7.0,Chasing team won
+1304094,Gujarat Titans,143,Punjab Kings,145,Punjab Kings,,8.0,Chasing team won
+1304095,Royal Challengers Bangalore,173,Chennai Super Kings,160,Royal Challengers Bangalore,13.0,,Batting first won
+1304096,Delhi Capitals,207,Sunrisers Hyderabad,186,Delhi Capitals,21.0,,Batting first won
+1304097,Mumbai Indians,177,Gujarat Titans,172,Mumbai Indians,5.0,,Batting first won
+1304098,Punjab Kings,189,Rajasthan Royals,190,Rajasthan Royals,,6.0,Chasing team won
+1304099,Lucknow Super Giants,176,Kolkata Knight Riders,101,Lucknow Super Giants,75.0,,Batting first won
+1304100,Royal Challengers Bangalore,192,Sunrisers Hyderabad,125,Royal Challengers Bangalore,67.0,,Batting first won
+1304101,Chennai Super Kings,208,Delhi Capitals,117,Chennai Super Kings,91.0,,Batting first won
+1304102,Kolkata Knight Riders,165,Mumbai Indians,113,Kolkata Knight Riders,52.0,,Batting first won
+1304103,Gujarat Titans,144,Lucknow Super Giants,82,Gujarat Titans,62.0,,Batting first won
+1304104,Rajasthan Royals,160,Delhi Capitals,161,Delhi Capitals,,8.0,Chasing team won
+1304105,Chennai Super Kings,97,Mumbai Indians,103,Mumbai Indians,,5.0,Chasing team won
+1304106,Punjab Kings,209,Royal Challengers Bangalore,155,Punjab Kings,54.0,,Batting first won
+1304107,Kolkata Knight Riders,177,Sunrisers Hyderabad,123,Kolkata Knight Riders,54.0,,Batting first won
+1304108,Chennai Super Kings,133,Gujarat Titans,137,Gujarat Titans,,7.0,Chasing team won
+1304109,Rajasthan Royals,178,Lucknow Super Giants,154,Rajasthan Royals,24.0,,Batting first won
+1304110,Delhi Capitals,159,Punjab Kings,142,Delhi Capitals,17.0,,Batting first won
+1304111,Sunrisers Hyderabad,193,Mumbai Indians,190,Sunrisers Hyderabad,3.0,,Batting first won
+1304112,Lucknow Super Giants,210,Kolkata Knight Riders,208,Lucknow Super Giants,2.0,,Batting first won
+1304113,Gujarat Titans,168,Royal Challengers Bangalore,170,Royal Challengers Bangalore,,8.0,Chasing team won
+1304114,Chennai Super Kings,150,Rajasthan Royals,151,Rajasthan Royals,,5.0,Chasing team won
+1304115,Delhi Capitals,159,Mumbai Indians,160,Mumbai Indians,,5.0,Chasing team won
+1304116,Sunrisers Hyderabad,157,Punjab Kings,160,Punjab Kings,,5.0,Chasing team won
+1312197,Rajasthan Royals,188,Gujarat Titans,191,Gujarat Titans,,7.0,Chasing team won
+1312198,Royal Challengers Bangalore,207,Lucknow Super Giants,193,Royal Challengers Bangalore,14.0,,Batting first won
+1312199,Royal Challengers Bangalore,157,Rajasthan Royals,161,Rajasthan Royals,,7.0,Chasing team won
+1312200,Rajasthan Royals,130,Gujarat Titans,133,Gujarat Titans,,7.0,Chasing team won
+1359475,Chennai Super Kings,178,Gujarat Titans,182,Gujarat Titans,,5.0,Chasing team won
+1359476,Punjab Kings,191,Kolkata Knight Riders,146,Punjab Kings,7.0,,Batting first won
+1359477,Lucknow Super Giants,193,Delhi Capitals,143,Lucknow Super Giants,50.0,,Batting first won
+1359478,Rajasthan Royals,203,Sunrisers Hyderabad,131,Rajasthan Royals,72.0,,Batting first won
+1359479,Mumbai Indians,171,Royal Challengers Bangalore,172,Royal Challengers Bangalore,,8.0,Chasing team won
+1359480,Chennai Super Kings,217,Lucknow Super Giants,205,Chennai Super Kings,12.0,,Batting first won
+1359481,Delhi Capitals,162,Gujarat Titans,163,Gujarat Titans,,6.0,Chasing team won
+1359482,Punjab Kings,197,Rajasthan Royals,192,Punjab Kings,5.0,,Batting first won
+1359483,Kolkata Knight Riders,204,Royal Challengers Bangalore,123,Kolkata Knight Riders,81.0,,Batting first won
+1359484,Sunrisers Hyderabad,121,Lucknow Super Giants,127,Lucknow Super Giants,,5.0,Chasing team won
+1359485,Rajasthan Royals,199,Delhi Capitals,142,Rajasthan Royals,57.0,,Batting first won
+1359486,Mumbai Indians,157,Chennai Super Kings,159,Chennai Super Kings,,7.0,Chasing team won
+1359487,Gujarat Titans,204,Kolkata Knight Riders,207,Kolkata Knight Riders,,3.0,Chasing team won
+1359488,Punjab Kings,143,Sunrisers Hyderabad,145,Sunrisers Hyderabad,,8.0,Chasing team won
+1359489,Royal Challengers Bangalore,212,Lucknow Super Giants,213,Lucknow Super Giants,,1.0,Chasing team won
+1359490,Delhi Capitals,172,Mumbai Indians,173,Mumbai Indians,,6.0,Chasing team won
+1359491,Rajasthan Royals,175,Chennai Super Kings,172,Rajasthan Royals,3.0,,Batting first won
+1359492,Punjab Kings,153,Gujarat Titans,154,Gujarat Titans,,6.0,Chasing team won
+1359493,Sunrisers Hyderabad,228,Kolkata Knight Riders,205,Sunrisers Hyderabad,23.0,,Batting first won
+1359494,Royal Challengers Bangalore,174,Delhi Capitals,151,Royal Challengers Bangalore,23.0,,Batting first won
+1359495,Lucknow Super Giants,159,Punjab Kings,161,Punjab Kings,,2.0,Chasing team won
+1359496,Kolkata Knight Riders,185,Mumbai Indians,186,Mumbai Indians,,5.0,Chasing team won
+1359497,Gujarat Titans,177,Rajasthan Royals,179,Rajasthan Royals,,3.0,Chasing team won
+1359498,Chennai Super Kings,226,Royal Challengers Bangalore,218,Chennai Super Kings,8.0,,Batting first won
+1359499,Mumbai Indians,192,Sunrisers Hyderabad,178,Mumbai Indians,14.0,,Batting first won
+1359500,Lucknow Super Giants,154,Rajasthan Royals,144,Lucknow Super Giants,10.0,,Batting first won
+1359501,Royal Challengers Bangalore,174,Punjab Kings,150,Royal Challengers Bangalore,24.0,,Batting first won
+1359502,Kolkata Knight Riders,127,Delhi Capitals,128,Delhi Capitals,,4.0,Chasing team won
+1359503,Sunrisers Hyderabad,134,Chennai Super Kings,138,Chennai Super Kings,,7.0,Chasing team won
+1359504,Gujarat Titans,135,Lucknow Super Giants,128,Gujarat Titans,7.0,,Batting first won
+1359505,Punjab Kings,214,Mumbai Indians,201,Punjab Kings,13.0,,Batting first won
+1359506,Royal Challengers Bangalore,189,Rajasthan Royals,182,Royal Challengers Bangalore,7.0,,Batting first won
+1359507,Chennai Super Kings,235,Kolkata Knight Riders,186,Chennai Super Kings,49.0,,Batting first won
+1359508,Delhi Capitals,144,Sunrisers Hyderabad,137,Delhi Capitals,7.0,,Batting first won
+1359509,Gujarat Titans,207,Mumbai Indians,152,Gujarat Titans,55.0,,Batting first won
+1359510,Kolkata Knight Riders,200,Royal Challengers Bangalore,179,Kolkata Knight Riders,21.0,,Batting first won
+1359511,Rajasthan Royals,202,Chennai Super Kings,170,Rajasthan Royals,32.0,,Batting first won
+1359512,Lucknow Super Giants,257,Punjab Kings,201,Lucknow Super Giants,56.0,,Batting first won
+1359513,Kolkata Knight Riders,179,Gujarat Titans,180,Gujarat Titans,,7.0,Chasing team won
+1359514,Sunrisers Hyderabad,197,Delhi Capitals,188,Sunrisers Hyderabad,9.0,,Batting first won
+1359515,Chennai Super Kings,200,Punjab Kings,201,Punjab Kings,,4.0,Chasing team won
+1359516,Rajasthan Royals,212,Mumbai Indians,214,Mumbai Indians,,6.0,Chasing team won
+1359517,Royal Challengers Bangalore,126,Lucknow Super Giants,108,Royal Challengers Bangalore,18.0,,Batting first won
+1359518,Delhi Capitals,130,Gujarat Titans,125,Delhi Capitals,5.0,,Batting first won
+1359520,Punjab Kings,214,Mumbai Indians,216,Mumbai Indians,,6.0,Chasing team won
+1359521,Kolkata Knight Riders,171,Sunrisers Hyderabad,166,Kolkata Knight Riders,5.0,,Batting first won
+1359522,Rajasthan Royals,118,Gujarat Titans,119,Gujarat Titans,,9.0,Chasing team won
+1359523,Mumbai Indians,139,Chennai Super Kings,140,Chennai Super Kings,,6.0,Chasing team won
+1359524,Royal Challengers Bangalore,181,Delhi Capitals,187,Delhi Capitals,,7.0,Chasing team won
+1359525,Gujarat Titans,227,Lucknow Super Giants,171,Gujarat Titans,56.0,,Batting first won
+1359526,Rajasthan Royals,214,Sunrisers Hyderabad,217,Sunrisers Hyderabad,,4.0,Chasing team won
+1359527,Punjab Kings,179,Kolkata Knight Riders,182,Kolkata Knight Riders,,5.0,Chasing team won
+1359528,Royal Challengers Bangalore,199,Mumbai Indians,200,Mumbai Indians,,6.0,Chasing team won
+1359529,Chennai Super Kings,167,Delhi Capitals,140,Chennai Super Kings,27.0,,Batting first won
+1359530,Kolkata Knight Riders,149,Rajasthan Royals,151,Rajasthan Royals,,9.0,Chasing team won
+1359531,Mumbai Indians,218,Gujarat Titans,191,Mumbai Indians,27.0,,Batting first won
+1359532,Sunrisers Hyderabad,182,Lucknow Super Giants,185,Lucknow Super Giants,,7.0,Chasing team won
+1359533,Punjab Kings,167,Delhi Capitals,136,Punjab Kings,31.0,,Batting first won
+1359534,Royal Challengers Bangalore,171,Rajasthan Royals,59,Royal Challengers Bangalore,112.0,,Batting first won
+1359535,Chennai Super Kings,144,Kolkata Knight Riders,147,Kolkata Knight Riders,,6.0,Chasing team won
+1359536,Gujarat Titans,188,Sunrisers Hyderabad,154,Gujarat Titans,34.0,,Batting first won
+1359537,Lucknow Super Giants,177,Mumbai Indians,172,Lucknow Super Giants,5.0,,Batting first won
+1359538,Delhi Capitals,213,Punjab Kings,198,Delhi Capitals,15.0,,Batting first won
+1359539,Sunrisers Hyderabad,186,Royal Challengers Bangalore,187,Royal Challengers Bangalore,,8.0,Chasing team won
+1359540,Punjab Kings,187,Rajasthan Royals,189,Rajasthan Royals,,4.0,Chasing team won
+1359541,Chennai Super Kings,223,Delhi Capitals,146,Chennai Super Kings,77.0,,Batting first won
+1359542,Lucknow Super Giants,176,Kolkata Knight Riders,175,Lucknow Super Giants,1.0,,Batting first won
+1359543,Sunrisers Hyderabad,200,Mumbai Indians,201,Mumbai Indians,,8.0,Chasing team won
+1359544,Royal Challengers Bangalore,197,Gujarat Titans,198,Gujarat Titans,,6.0,Chasing team won
+1370350,Chennai Super Kings,172,Gujarat Titans,157,Chennai Super Kings,15.0,,Batting first won
+1370351,Mumbai Indians,182,Lucknow Super Giants,101,Mumbai Indians,81.0,,Batting first won
+1370352,Gujarat Titans,233,Mumbai Indians,171,Gujarat Titans,62.0,,Batting first won
+1370353,Gujarat Titans,214,Chennai Super Kings,171,Chennai Super Kings,,5.0,Chasing team won
+1422119,Royal Challengers Bengaluru,173,Chennai Super Kings,176,Chennai Super Kings,,6.0,Chasing team won
+1422120,Delhi Capitals,174,Punjab Kings,177,Punjab Kings,,4.0,Chasing team won
+1422121,Kolkata Knight Riders,208,Sunrisers Hyderabad,204,Kolkata Knight Riders,4.0,,Batting first won
+1422122,Rajasthan Royals,193,Lucknow Super Giants,173,Rajasthan Royals,20.0,,Batting first won
+1422123,Gujarat Titans,168,Mumbai Indians,162,Gujarat Titans,6.0,,Batting first won
+1422124,Punjab Kings,176,Royal Challengers Bengaluru,178,Royal Challengers Bengaluru,,4.0,Chasing team won
+1422125,Chennai Super Kings,206,Gujarat Titans,143,Chennai Super Kings,63.0,,Batting first won
+1422126,Sunrisers Hyderabad,277,Mumbai Indians,246,Sunrisers Hyderabad,31.0,,Batting first won
+1422127,Rajasthan Royals,185,Delhi Capitals,173,Rajasthan Royals,12.0,,Batting first won
+1422128,Royal Challengers Bengaluru,182,Kolkata Knight Riders,186,Kolkata Knight Riders,,7.0,Chasing team won
+1422129,Lucknow Super Giants,199,Punjab Kings,178,Lucknow Super Giants,21.0,,Batting first won
+1422130,Sunrisers Hyderabad,162,Gujarat Titans,168,Gujarat Titans,,7.0,Chasing team won
+1422131,Delhi Capitals,191,Chennai Super Kings,171,Delhi Capitals,20.0,,Batting first won
+1422132,Mumbai Indians,125,Rajasthan Royals,127,Rajasthan Royals,,6.0,Chasing team won
+1422133,Lucknow Super Giants,181,Royal Challengers Bengaluru,153,Lucknow Super Giants,28.0,,Batting first won
+1422134,Kolkata Knight Riders,272,Delhi Capitals,166,Kolkata Knight Riders,106.0,,Batting first won
+1422135,Gujarat Titans,199,Punjab Kings,200,Punjab Kings,,3.0,Chasing team won
+1422136,Chennai Super Kings,165,Sunrisers Hyderabad,166,Sunrisers Hyderabad,,6.0,Chasing team won
+1422137,Royal Challengers Bengaluru,183,Rajasthan Royals,189,Rajasthan Royals,,6.0,Chasing team won
+1422138,Mumbai Indians,234,Delhi Capitals,205,Mumbai Indians,29.0,,Batting first won
+1422139,Lucknow Super Giants,163,Gujarat Titans,130,Lucknow Super Giants,33.0,,Batting first won
+1426260,Kolkata Knight Riders,137,Chennai Super Kings,141,Chennai Super Kings,,7.0,Chasing team won
+1426261,Sunrisers Hyderabad,182,Punjab Kings,180,Sunrisers Hyderabad,2.0,,Batting first won
+1426262,Rajasthan Royals,196,Gujarat Titans,199,Gujarat Titans,,3.0,Chasing team won
+1426263,Royal Challengers Bengaluru,196,Mumbai Indians,199,Mumbai Indians,,7.0,Chasing team won
+1426264,Lucknow Super Giants,167,Delhi Capitals,170,Delhi Capitals,,6.0,Chasing team won
+1426265,Punjab Kings,147,Rajasthan Royals,152,Rajasthan Royals,,3.0,Chasing team won
+1426266,Lucknow Super Giants,161,Kolkata Knight Riders,162,Kolkata Knight Riders,,8.0,Chasing team won
+1426267,Chennai Super Kings,206,Mumbai Indians,186,Chennai Super Kings,20.0,,Batting first won
+1426268,Sunrisers Hyderabad,287,Royal Challengers Bengaluru,262,Sunrisers Hyderabad,25.0,,Batting first won
+1426269,Kolkata Knight Riders,223,Rajasthan Royals,224,Rajasthan Royals,,2.0,Chasing team won
+1426270,Gujarat Titans,89,Delhi Capitals,92,Delhi Capitals,,6.0,Chasing team won
+1426271,Mumbai Indians,192,Punjab Kings,183,Mumbai Indians,9.0,,Batting first won
+1426272,Chennai Super Kings,176,Lucknow Super Giants,180,Lucknow Super Giants,,8.0,Chasing team won
+1426273,Sunrisers Hyderabad,266,Delhi Capitals,199,Sunrisers Hyderabad,67.0,,Batting first won
+1426274,Kolkata Knight Riders,222,Royal Challengers Bengaluru,221,Kolkata Knight Riders,1.0,,Batting first won
+1426275,Punjab Kings,142,Gujarat Titans,146,Gujarat Titans,,3.0,Chasing team won
+1426276,Mumbai Indians,179,Rajasthan Royals,183,Rajasthan Royals,,9.0,Chasing team won
+1426277,Chennai Super Kings,210,Lucknow Super Giants,213,Lucknow Super Giants,,6.0,Chasing team won
+1426278,Delhi Capitals,224,Gujarat Titans,220,Delhi Capitals,4.0,,Batting first won
+1426279,Royal Challengers Bengaluru,206,Sunrisers Hyderabad,171,Royal Challengers Bengaluru,35.0,,Batting first won
+1426280,Kolkata Knight Riders,261,Punjab Kings,262,Punjab Kings,,8.0,Chasing team won
+1426281,Delhi Capitals,257,Mumbai Indians,247,Delhi Capitals,10.0,,Batting first won
+1426282,Lucknow Super Giants,196,Rajasthan Royals,199,Rajasthan Royals,,7.0,Chasing team won
+1426283,Gujarat Titans,200,Royal Challengers Bengaluru,206,Royal Challengers Bengaluru,,9.0,Chasing team won
+1426284,Chennai Super Kings,212,Sunrisers Hyderabad,134,Chennai Super Kings,78.0,,Batting first won
+1426285,Delhi Capitals,153,Kolkata Knight Riders,157,Kolkata Knight Riders,,7.0,Chasing team won
+1426286,Mumbai Indians,144,Lucknow Super Giants,145,Lucknow Super Giants,,4.0,Chasing team won
+1426287,Chennai Super Kings,162,Punjab Kings,163,Punjab Kings,,7.0,Chasing team won
+1426288,Sunrisers Hyderabad,201,Rajasthan Royals,200,Sunrisers Hyderabad,1.0,,Batting first won
+1426289,Kolkata Knight Riders,169,Mumbai Indians,145,Kolkata Knight Riders,24.0,,Batting first won
+1426290,Gujarat Titans,147,Royal Challengers Bengaluru,152,Royal Challengers Bengaluru,,4.0,Chasing team won
+1426291,Chennai Super Kings,167,Punjab Kings,139,Chennai Super Kings,28.0,,Batting first won
+1426292,Kolkata Knight Riders,235,Lucknow Super Giants,137,Kolkata Knight Riders,98.0,,Batting first won
+1426293,Sunrisers Hyderabad,173,Mumbai Indians,174,Mumbai Indians,,7.0,Chasing team won
+1426294,Delhi Capitals,221,Rajasthan Royals,201,Delhi Capitals,20.0,,Batting first won
+1426295,Lucknow Super Giants,165,Sunrisers Hyderabad,167,Sunrisers Hyderabad,,10.0,Chasing team won
+1426296,Royal Challengers Bengaluru,241,Punjab Kings,181,Royal Challengers Bengaluru,60.0,,Batting first won
+1426297,Gujarat Titans,231,Chennai Super Kings,196,Gujarat Titans,35.0,,Batting first won
+1426298,Kolkata Knight Riders,157,Mumbai Indians,139,Kolkata Knight Riders,18.0,,Batting first won
+1426299,Rajasthan Royals,141,Chennai Super Kings,145,Chennai Super Kings,,5.0,Chasing team won
+1426300,Royal Challengers Bengaluru,187,Delhi Capitals,140,Royal Challengers Bengaluru,47.0,,Batting first won
+1426302,Delhi Capitals,208,Lucknow Super Giants,189,Delhi Capitals,19.0,,Batting first won
+1426303,Rajasthan Royals,144,Punjab Kings,145,Punjab Kings,,5.0,Chasing team won
+1426305,Lucknow Super Giants,214,Mumbai Indians,196,Lucknow Super Giants,18.0,,Batting first won
+1426306,Royal Challengers Bengaluru,218,Chennai Super Kings,191,Royal Challengers Bengaluru,27.0,,Batting first won
+1426307,Punjab Kings,214,Sunrisers Hyderabad,215,Sunrisers Hyderabad,,4.0,Chasing team won
+1426309,Sunrisers Hyderabad,159,Kolkata Knight Riders,164,Kolkata Knight Riders,,8.0,Chasing team won
+1426310,Royal Challengers Bengaluru,172,Rajasthan Royals,174,Rajasthan Royals,,4.0,Chasing team won
+1426311,Sunrisers Hyderabad,175,Rajasthan Royals,139,Sunrisers Hyderabad,36.0,,Batting first won
+1426312,Sunrisers Hyderabad,113,Kolkata Knight Riders,114,Kolkata Knight Riders,,8.0,Chasing team won
+1473438,Kolkata Knight Riders,174,Royal Challengers Bengaluru,177,Royal Challengers Bengaluru,,7.0,Chasing team won
+1473439,Sunrisers Hyderabad,286,Rajasthan Royals,242,Sunrisers Hyderabad,44.0,,Batting first won
+1473440,Mumbai Indians,155,Chennai Super Kings,158,Chennai Super Kings,,4.0,Chasing team won
+1473441,Lucknow Super Giants,209,Delhi Capitals,211,Delhi Capitals,,1.0,Chasing team won
+1473442,Punjab Kings,243,Gujarat Titans,232,Punjab Kings,11.0,,Batting first won
+1473443,Rajasthan Royals,151,Kolkata Knight Riders,153,Kolkata Knight Riders,,8.0,Chasing team won
+1473444,Sunrisers Hyderabad,190,Lucknow Super Giants,193,Lucknow Super Giants,,5.0,Chasing team won
+1473445,Royal Challengers Bengaluru,196,Chennai Super Kings,146,Royal Challengers Bengaluru,50.0,,Batting first won
+1473446,Gujarat Titans,196,Mumbai Indians,160,Gujarat Titans,36.0,,Batting first won
+1473447,Sunrisers Hyderabad,163,Delhi Capitals,166,Delhi Capitals,,7.0,Chasing team won
+1473448,Rajasthan Royals,182,Chennai Super Kings,176,Rajasthan Royals,6.0,,Batting first won
+1473449,Kolkata Knight Riders,116,Mumbai Indians,121,Mumbai Indians,,8.0,Chasing team won
+1473450,Lucknow Super Giants,171,Punjab Kings,177,Punjab Kings,,8.0,Chasing team won
+1473451,Royal Challengers Bengaluru,169,Gujarat Titans,170,Gujarat Titans,,8.0,Chasing team won
+1473452,Kolkata Knight Riders,200,Sunrisers Hyderabad,120,Kolkata Knight Riders,80.0,,Batting first won
+1473453,Lucknow Super Giants,203,Mumbai Indians,191,Lucknow Super Giants,12.0,,Batting first won
+1473454,Delhi Capitals,183,Chennai Super Kings,158,Delhi Capitals,25.0,,Batting first won
+1473455,Rajasthan Royals,205,Punjab Kings,155,Rajasthan Royals,50.0,,Batting first won
+1473456,Lucknow Super Giants,238,Kolkata Knight Riders,234,Lucknow Super Giants,4.0,,Batting first won
+1473457,Sunrisers Hyderabad,152,Gujarat Titans,153,Gujarat Titans,,7.0,Chasing team won
+1473458,Royal Challengers Bengaluru,221,Mumbai Indians,209,Royal Challengers Bengaluru,12.0,,Batting first won
+1473459,Punjab Kings,219,Chennai Super Kings,201,Punjab Kings,18.0,,Batting first won
+1473460,Gujarat Titans,217,Rajasthan Royals,159,Gujarat Titans,58.0,,Batting first won
+1473461,Royal Challengers Bengaluru,163,Delhi Capitals,169,Delhi Capitals,,6.0,Chasing team won
+1473462,Chennai Super Kings,103,Kolkata Knight Riders,107,Kolkata Knight Riders,,8.0,Chasing team won
+1473463,Gujarat Titans,180,Lucknow Super Giants,186,Lucknow Super Giants,,6.0,Chasing team won
+1473464,Punjab Kings,245,Sunrisers Hyderabad,247,Sunrisers Hyderabad,,8.0,Chasing team won
+1473465,Rajasthan Royals,173,Royal Challengers Bengaluru,175,Royal Challengers Bengaluru,,9.0,Chasing team won
+1473466,Mumbai Indians,205,Delhi Capitals,193,Mumbai Indians,12.0,,Batting first won
+1473467,Lucknow Super Giants,166,Chennai Super Kings,168,Chennai Super Kings,,5.0,Chasing team won
+1473468,Punjab Kings,111,Kolkata Knight Riders,95,Punjab Kings,16.0,,Batting first won
+1473469,Delhi Capitals,188,Rajasthan Royals,188,,,,No recorded winner / other result
+1473470,Sunrisers Hyderabad,162,Mumbai Indians,166,Mumbai Indians,,4.0,Chasing team won
+1473471,Royal Challengers Bengaluru,95,Punjab Kings,98,Punjab Kings,,5.0,Chasing team won
+1473472,Delhi Capitals,203,Gujarat Titans,204,Gujarat Titans,,7.0,Chasing team won
+1473473,Lucknow Super Giants,180,Rajasthan Royals,178,Lucknow Super Giants,2.0,,Batting first won
+1473474,Punjab Kings,157,Royal Challengers Bengaluru,159,Royal Challengers Bengaluru,,7.0,Chasing team won
+1473475,Chennai Super Kings,176,Mumbai Indians,177,Mumbai Indians,,9.0,Chasing team won
+1473476,Gujarat Titans,198,Kolkata Knight Riders,159,Gujarat Titans,39.0,,Batting first won
+1473477,Lucknow Super Giants,159,Delhi Capitals,161,Delhi Capitals,,8.0,Chasing team won
+1473478,Sunrisers Hyderabad,143,Mumbai Indians,146,Mumbai Indians,,7.0,Chasing team won
+1473479,Royal Challengers Bengaluru,205,Rajasthan Royals,194,Royal Challengers Bengaluru,11.0,,Batting first won
+1473480,Chennai Super Kings,154,Sunrisers Hyderabad,155,Sunrisers Hyderabad,,5.0,Chasing team won
+1473481,Punjab Kings,201,Kolkata Knight Riders,7,,,,No recorded winner / other result
+1473482,Mumbai Indians,215,Lucknow Super Giants,161,Mumbai Indians,54.0,,Batting first won
+1473483,Delhi Capitals,162,Royal Challengers Bengaluru,165,Royal Challengers Bengaluru,,6.0,Chasing team won
+1473484,Gujarat Titans,209,Rajasthan Royals,212,Rajasthan Royals,,8.0,Chasing team won
+1473485,Kolkata Knight Riders,204,Delhi Capitals,190,Kolkata Knight Riders,14.0,,Batting first won
+1473486,Chennai Super Kings,190,Punjab Kings,194,Punjab Kings,,4.0,Chasing team won
+1473487,Mumbai Indians,217,Rajasthan Royals,117,Mumbai Indians,100.0,,Batting first won
+1473488,Gujarat Titans,224,Sunrisers Hyderabad,186,Gujarat Titans,38.0,,Batting first won
+1473489,Royal Challengers Bengaluru,213,Chennai Super Kings,211,Royal Challengers Bengaluru,2.0,,Batting first won
+1473490,Kolkata Knight Riders,206,Rajasthan Royals,205,Kolkata Knight Riders,1.0,,Batting first won
+1473491,Punjab Kings,236,Lucknow Super Giants,199,Punjab Kings,37.0,,Batting first won
+1473493,Mumbai Indians,155,Gujarat Titans,147,Gujarat Titans,,3.0,Chasing team won
+1473494,Kolkata Knight Riders,179,Chennai Super Kings,183,Chennai Super Kings,,2.0,Chasing team won
+1473497,Punjab Kings,219,Rajasthan Royals,209,Punjab Kings,10.0,,Batting first won
+1473498,Delhi Capitals,199,Gujarat Titans,205,Gujarat Titans,,10.0,Chasing team won
+1473499,Lucknow Super Giants,205,Sunrisers Hyderabad,206,Sunrisers Hyderabad,,6.0,Chasing team won
+1473500,Chennai Super Kings,187,Rajasthan Royals,188,Rajasthan Royals,,6.0,Chasing team won
+1473501,Mumbai Indians,180,Delhi Capitals,121,Mumbai Indians,59.0,,Batting first won
+1473502,Lucknow Super Giants,235,Gujarat Titans,202,Lucknow Super Giants,33.0,,Batting first won
+1473503,Sunrisers Hyderabad,231,Royal Challengers Bengaluru,189,Sunrisers Hyderabad,42.0,,Batting first won
+1473504,Chennai Super Kings,230,Gujarat Titans,147,Chennai Super Kings,83.0,,Batting first won
+1473505,Sunrisers Hyderabad,278,Kolkata Knight Riders,168,Sunrisers Hyderabad,110.0,,Batting first won
+1473506,Mumbai Indians,184,Punjab Kings,187,Punjab Kings,,7.0,Chasing team won
+1473507,Lucknow Super Giants,227,Royal Challengers Bengaluru,230,Royal Challengers Bengaluru,,6.0,Chasing team won
+1473508,Punjab Kings,101,Royal Challengers Bengaluru,106,Royal Challengers Bengaluru,,8.0,Chasing team won
+1473509,Mumbai Indians,228,Gujarat Titans,208,Mumbai Indians,20.0,,Batting first won
+1473510,Mumbai Indians,203,Punjab Kings,207,Punjab Kings,,5.0,Chasing team won
+1473511,Royal Challengers Bengaluru,190,Punjab Kings,184,Royal Challengers Bengaluru,6.0,,Batting first won
+1485779,Punjab Kings,206,Delhi Capitals,208,Delhi Capitals,,6.0,Chasing team won
+1527674,Sunrisers Hyderabad,201,Royal Challengers Bengaluru,203,Royal Challengers Bengaluru,,6.0,Chasing team won
+1527675,Kolkata Knight Riders,220,Mumbai Indians,224,Mumbai Indians,,6.0,Chasing team won
+1527676,Chennai Super Kings,127,Rajasthan Royals,128,Rajasthan Royals,,8.0,Chasing team won
+1527677,Gujarat Titans,162,Punjab Kings,165,Punjab Kings,,3.0,Chasing team won
+1527678,Lucknow Super Giants,141,Delhi Capitals,145,Delhi Capitals,,6.0,Chasing team won
+1527679,Sunrisers Hyderabad,226,Kolkata Knight Riders,161,Sunrisers Hyderabad,65.0,,Batting first won
+1527680,Chennai Super Kings,209,Punjab Kings,210,Punjab Kings,,5.0,Chasing team won
+1527681,Mumbai Indians,162,Delhi Capitals,164,Delhi Capitals,,6.0,Chasing team won
+1527682,Rajasthan Royals,210,Gujarat Titans,204,Rajasthan Royals,6.0,,Batting first won
+1527683,Sunrisers Hyderabad,156,Lucknow Super Giants,160,Lucknow Super Giants,,5.0,Chasing team won
+1527684,Royal Challengers Bengaluru,250,Chennai Super Kings,207,Royal Challengers Bengaluru,43.0,,Batting first won
+1527686,Rajasthan Royals,150,Mumbai Indians,123,Rajasthan Royals,27.0,,Batting first won
+1527687,Gujarat Titans,210,Delhi Capitals,209,Gujarat Titans,1.0,,Batting first won
+1527688,Kolkata Knight Riders,181,Lucknow Super Giants,182,Lucknow Super Giants,,3.0,Chasing team won
+1527689,Royal Challengers Bengaluru,201,Rajasthan Royals,202,Rajasthan Royals,,6.0,Chasing team won
+1527690,Sunrisers Hyderabad,219,Punjab Kings,223,Punjab Kings,,6.0,Chasing team won
+1527691,Chennai Super Kings,212,Delhi Capitals,189,Chennai Super Kings,23.0,,Batting first won
+1527692,Lucknow Super Giants,164,Gujarat Titans,165,Gujarat Titans,,7.0,Chasing team won
+1527693,Royal Challengers Bengaluru,240,Mumbai Indians,222,Royal Challengers Bengaluru,18.0,,Batting first won
+1529264,Sunrisers Hyderabad,216,Rajasthan Royals,159,Sunrisers Hyderabad,57.0,,Batting first won
+1529265,Chennai Super Kings,192,Kolkata Knight Riders,160,Chennai Super Kings,32.0,,Batting first won
+1529266,Lucknow Super Giants,146,Royal Challengers Bengaluru,149,Royal Challengers Bengaluru,,5.0,Chasing team won
+1529267,Mumbai Indians,195,Punjab Kings,198,Punjab Kings,,7.0,Chasing team won
+1529268,Kolkata Knight Riders,180,Gujarat Titans,181,Gujarat Titans,,5.0,Chasing team won
+1529269,Royal Challengers Bengaluru,175,Delhi Capitals,179,Delhi Capitals,,6.0,Chasing team won
+1529270,Sunrisers Hyderabad,194,Chennai Super Kings,184,Sunrisers Hyderabad,10.0,,Batting first won
+1529271,Rajasthan Royals,155,Kolkata Knight Riders,161,Kolkata Knight Riders,,4.0,Chasing team won
+1529272,Punjab Kings,254,Lucknow Super Giants,200,Punjab Kings,54.0,,Batting first won
+1529273,Mumbai Indians,199,Gujarat Titans,100,Mumbai Indians,99.0,,Batting first won
+1529274,Sunrisers Hyderabad,242,Delhi Capitals,195,Sunrisers Hyderabad,47.0,,Batting first won
+1529275,Rajasthan Royals,159,Lucknow Super Giants,119,Rajasthan Royals,40.0,,Batting first won
+1529276,Chennai Super Kings,207,Mumbai Indians,104,Chennai Super Kings,103.0,,Batting first won
+1529277,Gujarat Titans,205,Royal Challengers Bengaluru,206,Royal Challengers Bengaluru,,5.0,Chasing team won
+1529278,Delhi Capitals,264,Punjab Kings,265,Punjab Kings,,6.0,Chasing team won
+1529279,Rajasthan Royals,228,Sunrisers Hyderabad,229,Sunrisers Hyderabad,,5.0,Chasing team won
+1529280,Chennai Super Kings,158,Gujarat Titans,162,Gujarat Titans,,8.0,Chasing team won
+1529281,Kolkata Knight Riders,155,Lucknow Super Giants,155,,,,No recorded winner / other result
+1529282,Delhi Capitals,75,Royal Challengers Bengaluru,77,Royal Challengers Bengaluru,,9.0,Chasing team won
+1529283,Punjab Kings,222,Rajasthan Royals,228,Rajasthan Royals,,6.0,Chasing team won
+1529284,Mumbai Indians,243,Sunrisers Hyderabad,249,Sunrisers Hyderabad,,6.0,Chasing team won
+1529285,Royal Challengers Bengaluru,155,Gujarat Titans,158,Gujarat Titans,,4.0,Chasing team won
+1529286,Rajasthan Royals,225,Delhi Capitals,226,Delhi Capitals,,7.0,Chasing team won
+1529287,Mumbai Indians,159,Chennai Super Kings,160,Chennai Super Kings,,8.0,Chasing team won
+1529288,Sunrisers Hyderabad,165,Kolkata Knight Riders,169,Kolkata Knight Riders,,7.0,Chasing team won
+1529289,Punjab Kings,163,Gujarat Titans,167,Gujarat Titans,,4.0,Chasing team won
+1529290,Lucknow Super Giants,228,Mumbai Indians,229,Mumbai Indians,,6.0,Chasing team won
+1529291,Delhi Capitals,155,Chennai Super Kings,159,Chennai Super Kings,,8.0,Chasing team won
+1529292,Sunrisers Hyderabad,235,Punjab Kings,202,Sunrisers Hyderabad,33.0,,Batting first won
+1529293,Lucknow Super Giants,209,Royal Challengers Bengaluru,203,Lucknow Super Giants,9.0,,Batting first won
+1529294,Delhi Capitals,142,Kolkata Knight Riders,147,Kolkata Knight Riders,,8.0,Chasing team won
+1529295,Gujarat Titans,229,Rajasthan Royals,152,Gujarat Titans,77.0,,Batting first won
+1529296,Lucknow Super Giants,203,Chennai Super Kings,208,Chennai Super Kings,,5.0,Chasing team won
+1529297,Mumbai Indians,166,Royal Challengers Bengaluru,167,Royal Challengers Bengaluru,,2.0,Chasing team won
+1529298,Punjab Kings,210,Delhi Capitals,216,Delhi Capitals,,3.0,Chasing team won
+1529299,Gujarat Titans,168,Sunrisers Hyderabad,86,Gujarat Titans,82.0,,Batting first won
+1529300,Kolkata Knight Riders,192,Royal Challengers Bengaluru,194,Royal Challengers Bengaluru,,6.0,Chasing team won
+1529301,Punjab Kings,200,Mumbai Indians,205,Mumbai Indians,,6.0,Chasing team won
+1529302,Chennai Super Kings,187,Lucknow Super Giants,188,Lucknow Super Giants,,7.0,Chasing team won
+1529303,Kolkata Knight Riders,247,Gujarat Titans,218,Kolkata Knight Riders,29.0,,Batting first won
+1529304,Royal Challengers Bengaluru,222,Punjab Kings,199,Royal Challengers Bengaluru,23.0,,Batting first won
+1529305,Rajasthan Royals,193,Delhi Capitals,197,Delhi Capitals,,5.0,Chasing team won
+1529306,Chennai Super Kings,180,Sunrisers Hyderabad,181,Sunrisers Hyderabad,,5.0,Chasing team won
+1529307,Lucknow Super Giants,220,Rajasthan Royals,225,Rajasthan Royals,,7.0,Chasing team won
+1529308,Mumbai Indians,147,Kolkata Knight Riders,148,Kolkata Knight Riders,,4.0,Chasing team won
+1529309,Gujarat Titans,229,Chennai Super Kings,140,Gujarat Titans,89.0,,Batting first won
+1529310,Sunrisers Hyderabad,255,Royal Challengers Bengaluru,200,Sunrisers Hyderabad,55.0,,Batting first won
+1529311,Lucknow Super Giants,196,Punjab Kings,200,Punjab Kings,,7.0,Chasing team won
+1529312,Rajasthan Royals,205,Mumbai Indians,175,Rajasthan Royals,30.0,,Batting first won
+1529313,Delhi Capitals,203,Kolkata Knight Riders,163,Delhi Capitals,40.0,,Batting first won
+1535462,Royal Challengers Bengaluru,254,Gujarat Titans,162,Royal Challengers Bengaluru,92.0,,Batting first won
+1535463,Rajasthan Royals,243,Sunrisers Hyderabad,196,Rajasthan Royals,47.0,,Batting first won
+1535464,Rajasthan Royals,214,Gujarat Titans,219,Gujarat Titans,,7.0,Chasing team won
+1535465,Gujarat Titans,155,Royal Challengers Bengaluru,161,Royal Challengers Bengaluru,,5.0,Chasing team won

@@ -1,0 +1,3 @@
+toss_won_match,matches,outcome,percentage
+False,590,Toss winner lost match,48.44006568144499
+True,628,Toss winner also won match,51.55993431855501

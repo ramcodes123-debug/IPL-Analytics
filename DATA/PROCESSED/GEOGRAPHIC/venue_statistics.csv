@@ -1,0 +1,61 @@
+venue,matches,city,state,latitude,longitude,average_match_total,highest_match_total
+Eden Gardens,77,Kolkata,West Bengal,22.5646,88.3433,307.24675324675326,430
+Wankhede Stadium,73,Mumbai,Maharashtra,18.9389,72.8258,320.64383561643837,453
+M Chinnaswamy Stadium,65,Bengaluru,Karnataka,12.9788,77.5996,311.73846153846154,409
+Feroz Shah Kotla,60,Delhi,Delhi,28.6377,77.2432,307.01666666666665,433
+"Wankhede Stadium, Mumbai",59,Mumbai,Maharashtra,18.9389,72.8258,353.4406779661017,492
+"Rajiv Gandhi International Stadium, Uppal",49,Hyderabad,Telangana,17.4065,78.5505,303.83673469387753,431
+"MA Chidambaram Stadium, Chepauk",48,Chennai,Tamil Nadu,13.0627,80.2792,318.2708333333333,469
+Sawai Mansingh Stadium,47,Jaipur,Rajasthan,26.894,75.803,303.48936170212767,393
+Dubai International Cricket Stadium,46,,,,,314.1304347826087,420
+"Narendra Modi Stadium, Ahmedabad",41,Ahmedabad,Gujarat,23.0918,72.597,351.9024390243902,475
+"MA Chidambaram Stadium, Chepauk, Chennai",41,Chennai,Tamil Nadu,13.0627,80.2792,325.5609756097561,423
+"Punjab Cricket Association Stadium, Mohali",35,Mohali,Punjab,30.69,76.737,313.9142857142857,447
+"Eden Gardens, Kolkata",30,Kolkata,West Bengal,22.5646,88.3433,359.43333333333334,523
+"Arun Jaitley Stadium, Delhi",30,Delhi,Delhi,28.6377,77.2432,375.1333333333333,529
+Sheikh Zayed Stadium,29,,,,,305.41379310344826,411
+"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",29,Lucknow,Uttar Pradesh,26.812,80.99,335.6896551724138,457
+Sharjah Cricket Stadium,28,,,,,306.5357142857143,449
+"Rajiv Gandhi International Stadium, Uppal, Hyderabad",26,Hyderabad,Telangana,17.4065,78.5505,369.4230769230769,528
+"M Chinnaswamy Stadium, Bengaluru",24,Bengaluru,Karnataka,12.9788,77.5996,372.0833333333333,549
+Maharashtra Cricket Association Stadium,22,Pune,Maharashtra,18.672,73.706,318.5,409
+"Sawai Mansingh Stadium, Jaipur",21,Jaipur,Rajasthan,26.894,75.803,372.8095238095238,457
+"Dr DY Patil Sports Academy, Mumbai",20,Navi Mumbai,Maharashtra,19.0437,73.026,328.65,418
+"Brabourne Stadium, Mumbai",17,Mumbai,Maharashtra,18.9322,72.8258,342.5882352941176,427
+Dr DY Patil Sports Academy,17,Navi Mumbai,Maharashtra,19.0437,73.026,282.94117647058823,377
+Subrata Roy Sahara Stadium,16,,,,,283.0,357
+M.Chinnaswamy Stadium,15,,,,,341.8,422
+Rajiv Gandhi International Stadium,15,Hyderabad,Telangana,17.4065,78.5505,308.73333333333335,399
+Kingsmead,15,,,,,290.2,369
+Arun Jaitley Stadium,14,Delhi,Delhi,28.6377,77.2432,324.5,387
+Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,13,Visakhapatnam,Andhra Pradesh,17.797,83.352,288.15384615384613,345
+"Maharashtra Cricket Association Stadium, Pune",13,Pune,Maharashtra,18.672,73.706,316.0,391
+SuperSport Park,12,,,,,304.4166666666667,377
+"Sardar Patel Stadium, Motera",12,Ahmedabad,Gujarat,23.0918,72.597,313.9166666666667,403
+"Punjab Cricket Association IS Bindra Stadium, Mohali",11,Mohali,Punjab,30.69,76.737,322.27272727272725,388
+Saurashtra Cricket Association Stadium,10,,,,,333.3,405
+Punjab Cricket Association IS Bindra Stadium,10,Mohali,Punjab,30.69,76.737,347.6,390
+"Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur",10,,,,,318.4,420
+Brabourne Stadium,10,Mumbai,Maharashtra,18.9322,72.8258,348.1,420
+"Himachal Pradesh Cricket Association Stadium, Dharamsala",10,Dharamshala,Himachal Pradesh,32.197,76.325,374.0,435
+Himachal Pradesh Cricket Association Stadium,9,Dharamshala,Himachal Pradesh,32.197,76.325,321.8888888888889,387
+Holkar Cricket Stadium,9,Indore,Madhya Pradesh,22.724,75.879,319.1111111111111,459
+MA Chidambaram Stadium,9,Chennai,Tamil Nadu,13.0627,80.2792,284.77777777777777,407
+"Barsapara Cricket Stadium, Guwahati",8,Guwahati,Assam,26.1445,91.7362,326.5,403
+New Wanderers Stadium,8,,,,,286.5,326
+"Zayed Cricket Stadium, Abu Dhabi",8,,,,,309.375,428
+Newlands,7,,,,,256.7142857142857,344
+St George's Park,7,,,,,290.42857142857144,307
+"Maharaja Yadavindra Singh International Cricket Stadium, New Chandigarh",7,,,,,425.85714285714283,454
+JSCA International Stadium Complex,7,Ranchi,Jharkhand,23.307,85.279,293.7142857142857,374
+Barabati Stadium,7,,,,,325.42857142857144,418
+Shaheed Veer Narayan Singh International Stadium,6,Raipur,Chhattisgarh,21.212,81.8,290.1666666666667,320
+Nehru Stadium,5,,,,,272.6,323
+"Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh",5,Mohali,Punjab,30.69,76.737,371.2,458
+Green Park,4,Kanpur,Uttar Pradesh,26.482,80.355,324.5,392
+"Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium, Visakhapatnam",4,Visakhapatnam,Andhra Pradesh,17.797,83.352,387.25,438
+De Beers Diamond Oval,3,,,,,299.0,337
+Buffalo Park,3,,,,,266.3333333333333,287
+"Vidarbha Cricket Association Stadium, Jamtha",3,,,,,294.0,316
+OUTsurance Oval,2,,,,,264.5,286
+"Shaheed Veer Narayan Singh International Stadium, Raipur",2,Raipur,Chhattisgarh,21.212,81.8,359.5,386

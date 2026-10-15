@@ -1,0 +1,21 @@
+match_id,innings,season,bowling_team,bowler,runs_conceded,legal_balls,dot_balls,wickets,overs_equivalent,economy
+1178394,2,2019.0,Mumbai Indians,AS Joseph,12.0,22,14,6,3.6666666666666665,3.272727272727273
+336005,1,,Rajasthan Royals,Sohail Tanvir,14.0,24,16,6,4.0,3.5
+980979,1,2016.0,Rising Pune Supergiants,A Zampa,19.0,24,11,6,4.0,4.75
+392182,2,2009.0,Royal Challengers Bangalore,A Kumble,5.0,19,13,5,3.1666666666666665,1.5789473684210527
+1370351,2,2023.0,Mumbai Indians,Akash Madhwal,5.0,21,16,5,3.5,1.4285714285714286
+1304102,1,2022.0,Mumbai Indians,JJ Bumrah,10.0,24,18,5,4.0,2.5
+1370352,2,2023.0,Gujarat Titans,MM Sharma,10.0,14,8,5,2.3333333333333335,4.285714285714286
+501229,2,2011.0,Deccan Chargers,I Sharma,12.0,18,12,5,3.0,4.0
+501201,1,2011.0,Mumbai Indians,SL Malinga,13.0,22,16,5,3.6666666666666665,3.5454545454545454
+1136585,1,2018.0,Kings XI Punjab,AS Rajpoot,14.0,24,16,5,4.0,3.5
+1359477,2,2023.0,Lucknow Super Giants,MA Wood,14.0,24,17,5,4.0,3.5
+1254062,1,2021.0,Kolkata Knight Riders,AD Russell,15.0,12,6,5,2.0,7.5
+548311,2,2012.0,Chennai Super Kings,RA Jadeja,16.0,24,17,5,4.0,4.0
+598065,1,2013.0,Rajasthan Royals,JP Faulkner,16.0,24,12,5,4.0,4.0
+336020,2,,Delhi Daredevils,A Mishra,17.0,24,11,5,4.0,4.25
+1082603,1,2017.0,Gujarat Lions,AJ Tye,17.0,24,10,5,4.0,4.25
+501221,2,2011.0,Mumbai Indians,Harbhajan Singh,18.0,24,10,5,4.0,4.5
+1304100,2,2022.0,Royal Challengers Bangalore,PWH de Silva,18.0,24,13,5,4.0,4.5
+1426276,1,2024.0,Rajasthan Royals,Sandeep Sharma,18.0,24,13,5,4.0,4.5
+548323,1,2012.0,Kolkata Knight Riders,SP Narine,19.0,24,13,5,4.0,4.75
